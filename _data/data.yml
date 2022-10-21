@@ -148,9 +148,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Publications including journal papers, conference proceedings and patents.
     papers:
       - title: Scale Up of High-Performance REBCO Tapes in a Pilot-Scale Advanced MOCVD Tool With In-Line 2D-XRD System
         authors: S. Chen and M., Goran, R. Jain, R. Pratap, V. Mohan, C. Goel and V. Selvamanickam
