@@ -152,20 +152,63 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Scale Up of High-Performance REBCO Tapes in a Pilot-Scale Advanced MOCVD Tool With In-Line 2D-XRD System
+        authors: S. Chen and M., Goran, R. Jain, R. Pratap, V. Mohan, C. Goel and V. Selvamanickam
+        conference: IEEE Trans. Appl. Supercond.
+        link: https://doi.org/10.1109/TASC.2021.3058868
+      - title: Reel-to-Reel Scanning Hall Probe Microscope Measurement on REBCO Tapes
+        authors: S. Chen and X. Li, W. Luo and V. Selvamanickam
+        conference: IEEE Transactions on Applied Superconductivity
+        link: https://doi.org/10.1109/tasc.2019.2901989
+      - title: A Reel-to-Reel Scanning Hall Probe Microscope for Characterizing Long REBCO Conductor in Magnetic Fields Up to 5 Tesla
+        authors: Y. Li, S. Chen, M. Paidpilli, R. Jain, C. Goel and V. Selvamanickam
+        conference: IEEE Trans. Appl. Supercond.
+        link: https://doi.org/10.1109/TASC.2022.3140688
+      - title: Inductance of Low-Frequency Small-Scale High-Temperature Superconducting Coils
+        authors: S. Chen, C. Gu, Y. Li, L. Lai, T. Qu, N. Hu, M. Song, S. Zou and Y. Yue
+        conference: IEEE Transactions on Applied Superconductivity
+        link: https://doi.org/10.1109/TASC.2019.2897868
+      - title: Observation and Analysis of Defects in Impregnated YBCO Racetrack Coil
+        authors: S. Chen, C. Gu, T. Qu, L. Lai, N. Hu and Y. Jiang
+        conference: IEEE Trans. Appl. Supercond.
+        link: https://doi.org/10.1109/TASC.2017.2662225
+      - title: Magnetization and Screening Current in an 800 MHz (18.8 T) REBCO Nuclear Magnetic Resonance Insert Magnet: Experimental Results and Numerical Analysis
+        authors: Y. Li, D. Park, Y. Yan, Y. Choi, J. Lee, P. C. Michael, S. Chen, T. Qu, J. Bascunan and Y. Iwasa
+        conference: Supercond. Sci. Technol.
+        link: https://doi.org/10.1088/1361-6668/ab3119
+      - title: Experimental Realization of Open Magnetic Shielding
+        authors: C. Gu, S. Chen, T. Pang and T. Qu
+        conference: Appl. Phys. Lett.
+        link: https://doi.org/10.1063/1.4983490
+      - title: Open Magnetic Shielding by Superconducting Technology
+        authors: C. Gu, L. Lai, S. Chen, T. Qu and Y. Yue
+        conference: IEEE Transactions on Applied Superconductivity
+        link: https://doi.org/10.1109/TASC.2019.2901554
+      - title: Examination and Analysis of Critical Current Uniformity of Long HTS Tapes by the MCorder
+        authors: S. Zou, C. Gu, T. Qu, S. Chen, X. Li and Z. Han
+        conference: IEEE Transactions on Applied Superconductivity
+        link: https://doi.org/10.1109/TASC.2014.2374418
+      - title: Characterization of Ic Degradation in Bent YBCO Tapes
+        authors: L. Lai, C. Gu, Y. Yue, S. Chen, M. Song, N. Hu, T. Qu and S. Zou
+        conference: IEEE Transactions on Applied Superconductivity
+        link: https://doi.org/10.1109/TASC.2019.2900354
+      - title: Dynamic Uniformity Modeling in Superconductor Manufacturing via Vector Autoregression Analysis
+        authors: S. Peng, M. Li, Y. Lin, Q. Feng, W. Fu, E. Galstyan, S. Chen, and R. Jain
+        link: https://www.proquest.com/openview/0fed6a6f7bb26cfc2715cf69d5edec4b/1?pq-origsite=gscholar&cbl=51908
+        conference: IIE Annual Conference. Proceedings; Norcross
+      - title: A Spatial Point Process-based Approach for Dropout Events Modeling in High-Temperature Superconductor Manufacturing
+        authors: M. Li, S. Peng, Y. Lin, Q. Feng, W. Fu, E. Galstyan, S. Chen, and R. Jain
+        link: https://www.proquest.com/openview/a86b214dd3da9ee1039810fda655b998/1?pq-origsite=gscholar&cbl=51908
+        conference: IIE Annual Conference. Proceedings; Norcross
+      - title: Magnetic Field Shielding System Based on Closed Superconducting Coil Groups and Magnetic Field Shielding Device
+        authors: C. Gu, S. Chen, T. Qu, Z. Han
+        link: https://patents.google.com/patent/US10015917B2
+        conference: US Patent
+      - title: Magnetic field shielding system and device based on closed superconducting coil assembly
+        authors: C. Gu, S. Chen, T. Qu, Z. Han
+        link: https://patents.google.com/patent/WO2015010379A1/
+        conference: PCT Patent
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
