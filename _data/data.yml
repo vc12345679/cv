@@ -99,41 +99,24 @@ experiences:
           In charge of automation in the 1st generation high-temperature superconducting tape (BSCCO/Bi-2223) production line.
             - Process control and monitoring during heat treatment.
             - Reel-to-reel tape thickness and width monitoring.
-projects:
+projects2:
     title: Research Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps
-      - title: 
-        link: "#"
-        tagline: |
-          simulation (finite element method) and experiment on
-            - Eletromagnetic characterization of high-temperature superconductors.
-            - Dynamic eletromagnetic properties (inductance, AC loss) of high-temperature superconducting coils.
+    info:
+      - title: Pilot-Scale Advanced MOCVD System for Manufacturing Long REBCO Tapes
+        details: |
+          To prove the extendability of the world-record performance in short REBCO samples to production scale.
+            - Fully designed and implemented the electronic circuit, the electrical wiring, the control strategy and the program framework of the system;
+            - Partially designed the mechanical structures and fully assembled the hardware;
+            - The developed software framework has been migrated in another two MOCVD systems.
+      - title: Inductance of Superconducting Coils
+        details: |
+          To better understand the dynamic eletromagnetic characteristics of high-temperature superconducting (HTS) coils, I
+            - Simulated the current distributions in HTS coils with varies dimensions by finite element method (utilizing ANSYS);
+            - Designed and implemented a automated platform for measuring dynamic eletromagnetic properties, including inductance and AC loss, of HTS conductors;
+            - Proposed and verified the nonlinear behavior of the inductance in HTS coils which provided guidelines for designing non-DC superconducting applications.
       - title: Real-time feedback control of the reel-to-reel film deposition process
-        link: "#"
-        tagline: |
+        details: |
+          
             - Designed and built three reel-to-reel MOCVD systems for depositing REBCO tapes.
             - Developed a reel-to-reel offline 65K/77K self-field/in-field critical current density mapping tool for REBCO tapes.
             - Developed a reel-to-reel inline 2D X-ray diffraction quality check system for REBCO tapes.
@@ -205,27 +188,30 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: Automation and Control (PLC & microcontrollers & hardware/software embedded development)
-        level: 
-      
       - name: Data processing (statistical and machine learning-based, by Python/C++/C# etc.)
-        level: 
-
       - name: FEM simulation (electromagnetic & mechanical & thermal, by Comsol/ANSYS/in-house code)
-        level: 
-
       - name: Mechanical design (CAD, by Solidworks & Inventor & FreeCAD)
-        level: 
-        
       - name: Electrial and Electronic design (digital and some analogue, by KiCAD)
-        level: 
-
+      - name: Database operation (relational database such as MySQL/MariaDB & time-series database such as InfluxDB)
       - name: Web application development (HTML5 & CSS3 & PHP & Python/Flask)
-        level: 
         
-      
+honors:
+    title: Honors &amp; Awards
+    details:
+      - name: [2021] ISS2021 - Encouragement Award (best oral presentation) 
+      - name: [2020] TcSUH Cora Hawley Scholarship
+      - name: [2019] American Bureau of Shipping Scholarship
+      - name: [2017] Houston Endowment Fellowship
+      - name: [2017] University of Houston Presidential Fellowship
+      - name: [2016] China Electric Power Sci & Tech Award (invention category, 3rd prize)
+    
+appointments:
+    title: Appointments
+    details:
+      - name: ASC2020 - ELEVATE Program Committee member
+      - name: ASC2022 - Board member; Material Program Committee member; ELEVATE Program Committee member
 
 footer: >
     
