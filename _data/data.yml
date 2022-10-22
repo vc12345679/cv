@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: siwei.chen.hts@gmail.com
     phone: +1 (281) 777-5110
-    timezone: America/Chicago Timezone
+    timezone: US(CST/CDT)
     citizenship:
     website: cv.chensiwei.space #do not add http://
     linkedin: siweichen
@@ -30,37 +30,35 @@ sidebar:
     pdf: ./print
 
     interests:
-      title: Interests
+      title: Open To Work
       info:
-        - item: Mountain bike
+        - item: Expected graduation in Dec 2022
           link:
 
-        - item: Embedded development
-          link:
 
 career-profile:
     title: Summary
     summary: |
       Over ten years experiences in superconducting tape characterization techniques, superconducting coil applications and pilot-scale film deposition process.
       Expert in: 
-      * Reel-to-reel measurement of long high-temperature superconducting tapes; 
+      * Reel-to-reel measurement of long high-temperature superconducting (HTS) tapes; 
       * Dynamic electromagnetic characteristics of superconducting coils;
       * Film deposition processes, e.g., MOCVD.
       
 education:
     title: Education
     info:
-      - degree: PhD Candidate in Mechanical Engineering
-        university: University of Houston
-        time: 2017 - Present
+      - degree: Ph.D. Candidate in Mechanical Engineering
+        university: University of Houston, Houston, Texas
+        time: 2017 - 2022(Dec)
         details: |
-          - Advisor: Dr. Venkat Selvamanickam
+          - Advisor: Dr. Venkat Selvamanickam (former SuperPower CTO)
           - Real-time feedback control of the reel-to-reel film deposition process: deposition system, quality check techniques, and control strategy.
-      - degree: BSc in Mathematics and Physics
-        university: Tsinghua University
+      - degree: B.Sc. in Mathematics and Physics
+        university: Tsinghua University, Beijing, China
         time: 2008 - 2012
         details: |
-          - Advisor: Dr. Zhenghe Han
+          - Advisor: Dr. Zhenghe Han (former InnoST CEO)
           - Studied the fundamental mathematics and physics as well as embedded developement as a hobby.
           Capstone project: Inductance of superconducting coils. 
 experiences:
@@ -70,59 +68,64 @@ experiences:
         time: 2017 - Present
         company: University of Houston, Houston, Texas
         details: |
-          Besides of the academic research, I also supported other projects in the group as a full-stack engineer on Mechanical design and machining; Electrical design and wiring; Electronic design and circuit making; Automation and programming; Data acquisition and post-processing.
+          Besides of the academic research, also supported other projects in the group as a full-stack engineer on Mechanical design and machining; Electrical design and wiring; Electronic design and circuit making; Automation and programming; Data acquisition and post-processing.
       - role: R&D Manager
         time: 2015 - 2016
         company: Eastforce Superconducting Technology Co., Ltd., Beijing, China
         details: |
-          As the first employee of a startup company, I leaded the development and commercialization of varies superconductor characterization tools and superconducting applications.
+          As the first employee of a startup company, leaded the development and commercialization of varies superconductor characterization tools and superconducting applications.
       - role: Research Assistant
-        time: 2014
+        time: 2014 - 2014
         company: Tsinghua University, Beijing, China
         details: |
           Conducted research on superconductor characterization techniques and superconducting applications.
-            - Implemented a reel-to-reel 77K self-field critical current measurement technique for long high-temperature superconducting tapes.
-            - Invented and realized a passive open magnetic field shielding technique in form of superconducting coil groups.
+            - Implemented a reel-to-reel 77K self-field critical current measurement technique for long HTS tapes
+            - Invented and realized a passive open magnetic field shielding technique in form of superconducting coil groups (PCT/CN/US patent granted)
       - role: Technical Consultant
         time: 2012 - 2013
         company: Innova Superconductor Technology Co., Ltd., Beijing, China
         details: |
-          In charge of automation in the 1st generation high-temperature superconducting tape (BSCCO/Bi-2223) production line.
-            - Process control and monitoring during heat treatment.
-            - Reel-to-reel tape thickness and width monitoring.
+          In charge of automation in the 1st generation HTS tape (BSCCO/Bi-2223) production line.
+            - Process control and monitoring during heat treatment
+            - Reel-to-reel tape thickness and width monitoring
+      - role: Intership
+        time: 2011 - 2012
+        company: Intel Labs China, Beijing, China
+        details: |
+          Assisted embedded development on:
+            - Wireless display transmission (WiDi) in collabration with Lenovo
+            - Cross-device process migration on ARM platforms in collabration with Nokia
 projects2:
     title: Research Projects
     info:
       - title: Pilot-Scale Advanced MOCVD System for Manufacturing Long REBCO Tapes
         details: |
-          To prove the extendability of the world-record performance in short REBCO samples to production scale, I
+          To prove the extendability of the world-record performance in short REBCO samples to production scale,
             - Fully designed and implemented the electronic circuit, the electrical wiring, the control strategy and the program framework of the system;
-            - Partially designed the mechanical structures and fully assembled the hardware;
-            - Successfully manufactured uniform high-performance tape with length longer than 50m;
-            - The developed software framework has been migrated to another two MOCVD systems.
+            - Partially designed the mechanical structures and fully assembled the hardwares;
+            - Successfully manufactured over 50m uniform high-performance single tape;
+            - Reused the developed software framework to support another two MOCVD systems.
       - title: Reel-to-Reel 65K/77K Self-Field/In-Field Critical Current Density Mapping Tool for Long REBCO Tapes
         details: |
-          To extract the 2D performance distribution of REBCO tape, I
-            - Developed a reel-to-reel motion system enabling the REBCO tapes going between room temperature and 65K;
-            - Implemented a reciporical Hall probe scanner and a rotary Hall probe scanner under 77K/65K;
-            - Successfully measured the 77K/65K critical current density profile of long REBCO tapes with the presence of external magnetic field between 0-5 Tesla;
-            - The tools are now being routinely used to examine the produced REBCO tapes.
+          To routinely examine the quality of the produced long REBCO tapes by extracting their 2D performance distributions,
+            - Designed and developed a reel-to-reel motion system enabling the REBCO tapes going between room evniroment and 65K vacuum;
+            - Implemented a reciporical Hall probe scanner and a rotary Hall probe scanner under low temperature;
+            - Successfully measured the 77K/65K critical current density profile of long REBCO tapes with external magnetic field in range 0-5T;
       - title: Inline Quality Check by 2D X-ray Diffraction In An Advanced MOCVD System
         details: |
-          To monitor the REBCO and the dopants lattice qualities in semi-realtime, I
-            - Designed a mechanical structure allowing all the peaks of interest being detected at a single exposure;
-            - Developed a numerical method to automatically detect the peak of interest in the 2D XRD exposures and rectify the image with the presence of vibration and curvature;
-            - Trained a high-precision (>85%) machine learning-based model to predict the tape performance after post-processing;
-            - Ultimately, got a promising feedback source for real-time closed-loop process control.
+          To monitor the REBCO and the dopants lattice qualities inline as a solid feedback source for real-time closed-loop process control,
+            - Integrated a X-ray source and a 2D detector in the Advanced MOCVD System by customized mechanical structures;
+            - Invented a numerical method to automatically detect peak of interest in the 2D XRD exposures and rectify the image with the presence of vibration and curvature;
+            - Reused the developed code to monitor bi-texture quality of buffer templates in an IBAD system by RHEED;
+            - Developed a high precision (>85%) machine learning model to predict the tape performance without post-processing.
       - title: Electromechanical properties of REBCO Tapes
         details: |
-          The electromechanical properties of REBCO tapes are very important for high-field applications. I
+          To provide electromechanical properties when developing high-strength REBCO tapes for high-fields applications,
             - Built a tensile I-V testing and a torsion I-V testing system;
-            - Extracted the critical current denpendencies on varies of strains/stresses;
-            - The system becomes a key quality checking tool for developing high-strength REBCO tapes.
+            - Extracted the 77K self-field critical current performances under varies of strains/stresses.
       - title: Inductance of Superconducting Coils
         details: |
-          To better understand the dynamic eletromagnetic characteristics of high-temperature superconducting (HTS) coils, I
+          To better understand the dynamic eletromagnetic characteristics of HTS coils, I
             - Simulated the current distributions in HTS coils with varies dimensions by finite element method (utilizing ANSYS);
             - Designed and implemented a automated platform for measuring dynamic eletromagnetic properties, including inductance and AC loss, of HTS conductors;
             - Proposed and verified the nonlinear behavior of the inductance in HTS coils which provided guidelines for designing non-DC superconducting applications.
@@ -196,37 +199,40 @@ skills:
     
       - name: Automation and Control
       - details: |
-          - PLC & microcontrollers & hardware/software embedded development
+          - PLC / microcontrollers / hardware&software embedded development
       
-      - name: Data processing
+      - name: Programming
       - details: |
-          - statistical and machine learning-based, by Python/C++/C# etc.
+          - Statistical and machine learning-based data analysis
+          - Python / C++ / C# / Matlab / Julia / Mathematica
       
-      - name: FEM simulation
+      - name: FEM Simulation
       - details: |
-          - electromagnetic & mechanical & thermal, by Comsol/ANSYS/in-house code
+          - Electromagnetic / mechanical / thermal / general analysis
+          - Comsol / ANSYS / Python / Julia / in-house code
       
-      - name: Mechanical design
+      - name: Mechanical Design
       - details: |
-          - CAD, by Solidworks & Inventor & FreeCAD
+          - CAD (Solidworks / Inventor / FreeCAD)
       
-      - name: Electrial and Electronic design
+      - name: Electrial and Electronic Design
       - details: |
-          - digital and some analogue, by KiCAD
+          - Digital and analog circuit (KiCAD)
       
-      - name: Database operation
+      - name: Database
       - details: |
-          - relational database such as MySQL/MariaDB & time-series database such as InfluxDB
+          - Relational database (MySQL / MariaDB / SQLite)
+          - Time-series database (InfluxDB)
       
-      - name: Web application development
+      - name: Web Application Development
       - details: |
-          - by HTML5 & CSS3 & PHP & Python/Flask
+          - HTML5 / CSS3 / PHP / Javascript / Python-Flask
         
 honors:
     title: Honors &amp; Awards
     details:
     
-      - name: ISS2021 Encouragement Award (best oral presentation)
+      - name: ISS2021 Encouragement Award (Best Oral Presentation)
         year: 2021
       
       - name: TcSUH Cora Hawley Scholarship
@@ -241,14 +247,14 @@ honors:
       - name: University of Houston Presidential Fellowship
         year: 2017
       
-      - name: China Electric Power Sci & Tech Award (3rd best invention prize)
+      - name: China Electric Power Sci & Tech Award 3rd Best Invention Prize
         year: 2016
     
 appointments:
     title: Appointments
     details:
-      - name: ASC2020 - ELEVATE Program Committee member
-      - name: ASC2022 - Board member; Material Program Committee member; ELEVATE Program Committee member
+      - name: ASC2020 - ELEVATE Program Committee Member
+      - name: ASC2022 - Board Member; Material Program Committee Member; ELEVATE Program Committee Member
 
 footer: >
     
