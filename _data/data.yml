@@ -36,15 +36,15 @@ sidebar:
           level: Professional
 
         - idiom: Chinese
-          level: Nativa
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Mountain Biking
+        - item: Mountain biking
           link:
 
-        - item: Programming
+        - item: Embedded development
           link:
 
 career-profile:
@@ -71,51 +71,32 @@ education:
         university: Tsinghua University
         time: 2008 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
+          Capstone project: simulation (finite element method) and experiment on
+            - Eletromagnetic characterization of high-temperature superconductors
+            - Dynamic eletromagnetic properties of high-temperature superconducting coils
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Technical Consultant
+        time: 2012 - 2013
+        company: Innova Superconductor Technology Co., Ltd., Beijing, China
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          In charge of automation in the 1st generation high-temperature superconducting tape (BSCCO/Bi-2223) production line.
+            - Process control and monitoring during heat treatment.
+            - Reel-to-reel tape thickness and width monitoring.
+      - role: Research Assistant
+        time: 2014
+        company: Tsinghua University, Beijing, China
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Conducted research on superconductor characterization techniques and superconducting applications.
+            - Developed a reel-to-reel electromagnetic characterization technique for long high-temperature superconducting tapes.
+            - Invented and realized a passive open magnetic field shielding technique in form of superconducting coil groups.
+      - role: R&D Manager
+        time: 2015 - 2016
+        company: Eastforce Superconducting Technology Co., Ltd., Beijing, China
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Leaded the development and commercialization of varies superconductor characterization tools and superconducting applications.
             - Bullet point
             - Bullet point
 projects:
@@ -152,52 +133,52 @@ publications:
     papers:
       - title: Scale Up of High-Performance REBCO Tapes in a Pilot-Scale Advanced MOCVD Tool With In-Line 2D-XRD System
         authors: S. Chen and M., Goran, R. Jain, R. Pratap, V. Mohan, C. Goel and V. Selvamanickam
-        conference: IEEE Trans. Appl. Supercond.
+        conference: IEEE Trans. Appl. Supercond. (2021)
         link: https://doi.org/10.1109/TASC.2021.3058868
       - title: Reel-to-Reel Scanning Hall Probe Microscope Measurement on REBCO Tapes
         authors: S. Chen and X. Li, W. Luo and V. Selvamanickam
-        conference: IEEE Transactions on Applied Superconductivity
+        conference: IEEE Trans. Appl. Supercond. (2019)
         link: https://doi.org/10.1109/tasc.2019.2901989
-      - title: A Reel-to-Reel Scanning Hall Probe Microscope for Characterizing Long REBCO Conductor in Magnetic Fields Up to 5 Tesla
-        authors: Y. Li, S. Chen, M. Paidpilli, R. Jain, C. Goel and V. Selvamanickam
-        conference: IEEE Trans. Appl. Supercond.
-        link: https://doi.org/10.1109/TASC.2022.3140688
       - title: Inductance of Low-Frequency Small-Scale High-Temperature Superconducting Coils
         authors: S. Chen, C. Gu, Y. Li, L. Lai, T. Qu, N. Hu, M. Song, S. Zou and Y. Yue
-        conference: IEEE Transactions on Applied Superconductivity
+        conference: IEEE Trans. Appl. Supercond. (2019)
         link: https://doi.org/10.1109/TASC.2019.2897868
       - title: Observation and Analysis of Defects in Impregnated YBCO Racetrack Coil
         authors: S. Chen, C. Gu, T. Qu, L. Lai, N. Hu and Y. Jiang
-        conference: IEEE Trans. Appl. Supercond.
+        conference: IEEE Trans. Appl. Supercond. (2017)
         link: https://doi.org/10.1109/TASC.2017.2662225
+      - title: A Reel-to-Reel Scanning Hall Probe Microscope for Characterizing Long REBCO Conductor in Magnetic Fields Up to 5 Tesla
+        authors: Y. Li, S. Chen, M. Paidpilli, R. Jain, C. Goel and V. Selvamanickam
+        conference: IEEE Trans. Appl. Supercond. (2022)
+        link: https://doi.org/10.1109/TASC.2022.3140688
       - title: Magnetization and Screening Current in an 800 MHz (18.8 T) REBCO Nuclear Magnetic Resonance Insert Magnet - Experimental Results and Numerical Analysis
         authors: Y. Li, D. Park, Y. Yan, Y. Choi, J. Lee, P. C. Michael, S. Chen, T. Qu, J. Bascunan and Y. Iwasa
-        conference: Supercond. Sci. Technol.
+        conference: Supercond. Sci. Technol. (2019)
         link: https://doi.org/10.1088/1361-6668/ab3119
-      - title: Experimental Realization of Open Magnetic Shielding
-        authors: C. Gu, S. Chen, T. Pang and T. Qu
-        conference: Appl. Phys. Lett.
-        link: https://doi.org/10.1063/1.4983490
       - title: Open Magnetic Shielding by Superconducting Technology
         authors: C. Gu, L. Lai, S. Chen, T. Qu and Y. Yue
-        conference: IEEE Transactions on Applied Superconductivity
+        conference: IEEE Trans. Appl. Supercond. (2019)
         link: https://doi.org/10.1109/TASC.2019.2901554
-      - title: Examination and Analysis of Critical Current Uniformity of Long HTS Tapes by the MCorder
-        authors: S. Zou, C. Gu, T. Qu, S. Chen, X. Li and Z. Han
-        conference: IEEE Transactions on Applied Superconductivity
-        link: https://doi.org/10.1109/TASC.2014.2374418
       - title: Characterization of Ic Degradation in Bent YBCO Tapes
         authors: L. Lai, C. Gu, Y. Yue, S. Chen, M. Song, N. Hu, T. Qu and S. Zou
-        conference: IEEE Transactions on Applied Superconductivity
+        conference: IEEE Trans. Appl. Supercond. (2019)
         link: https://doi.org/10.1109/TASC.2019.2900354
+      - title: Experimental Realization of Open Magnetic Shielding
+        authors: C. Gu, S. Chen, T. Pang and T. Qu
+        conference: Appl. Phys. Lett. (2017)
+        link: https://doi.org/10.1063/1.4983490
+      - title: Examination and Analysis of Critical Current Uniformity of Long HTS Tapes by the MCorder
+        authors: S. Zou, C. Gu, T. Qu, S. Chen, X. Li and Z. Han
+        conference: IEEE Trans. Appl. Supercond. (2015)
+        link: https://doi.org/10.1109/TASC.2014.2374418
       - title: Dynamic Uniformity Modeling in Superconductor Manufacturing via Vector Autoregression Analysis
         authors: S. Peng, M. Li, Y. Lin, Q. Feng, W. Fu, E. Galstyan, S. Chen, and R. Jain
         link: https://www.proquest.com/openview/0fed6a6f7bb26cfc2715cf69d5edec4b/1?pq-origsite=gscholar&cbl=51908
-        conference: IIE Annual Conference. Proceedings; Norcross
+        conference: IIE Annual Conference. Proceedings; Norcross (2022)
       - title: A Spatial Point Process-based Approach for Dropout Events Modeling in High-Temperature Superconductor Manufacturing
         authors: M. Li, S. Peng, Y. Lin, Q. Feng, W. Fu, E. Galstyan, S. Chen, and R. Jain
         link: https://www.proquest.com/openview/a86b214dd3da9ee1039810fda655b998/1?pq-origsite=gscholar&cbl=51908
-        conference: IIE Annual Conference. Proceedings; Norcross
+        conference: IIE Annual Conference. Proceedings; Norcross (2022)
       - title: Magnetic Field Shielding System Based on Closed Superconducting Coil Groups and Magnetic Field Shielding Device
         authors: C. Gu, S. Chen, T. Qu, Z. Han
         link: https://patents.google.com/patent/US10015917B2
@@ -212,17 +193,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Programming (Python & C++ & C#)
+      - name: Automation and Control (PLC & microcontrollers & hardware/software embedded development)
+        level: 95%
+      
+      - name: Data processing (statistical and machine learning-based, by Python/C++/C# etc.)
         level: 100%
 
-      - name: FEM Software (Comsol & ANSYS)
+      - name: FEM simulation (electromagnetic & mechanical & thermal, by Comsol/ANSYS/in-house code)
+        level: 85%
+
+      - name: Mechanical design (CAD, by Solidworks & Inventor & FreeCAD)
+        level: 95%
+        
+      - name: Electrial and Electronic design (digital and some analogue, by KiCAD)
         level: 80%
 
-      - name: CAD Software (Solidworks & Inventor)
-        level: 100%
-
-      - name: Web Development (HTML5 & CSS3 & PHP & Python/Flask)
+      - name: Web application development (HTML5 & CSS3 & PHP & Python/Flask)
         level: 95%
+        
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
