@@ -48,53 +48,43 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       Over ten years experiences in superconducting tape characterization techniques, superconducting coil applications and pilot-scale film deposition process.
       Expert in: 
-      * reel-to-reel measurement of long high-temperature superconducting tapes; 
-      * dynamic electromagnetic responses of superconducting coils;
-      * film deposition processes, e.g., MOCVD.
+      * Reel-to-reel measurement of long high-temperature superconducting tapes; 
+      * Dynamic electromagnetic characteristics of superconducting coils;
+      * Film deposition processes, e.g., MOCVD.
       
 education:
     title: Education
     info:
-      - degree: (Pursuing) PhD in Mechanical Engineer
+      - degree: PhD Candidate in Mechanical Engineering
         university: University of Houston
         time: 2017 - Present
         details: |
-          Real-time feedback control of the reel-to-reel film deposition process: deposition system, quality check techniques, and methodology. 
-            - Designed and built three reel-to-reel MOCVD systems for depositing REBCO tapes.
-            - Developed a reel-to-reel offline 65K/77K self-field/in-field critical current density mapping tool for REBCO tapes.
-            - Developed a reel-to-reel inline 2D X-ray diffraction quality check system for REBCO tapes.
-            - Came up with a machine learning-based method to predict the offline performance based on inline measurement results in real-time.
-            - Conducted preliminary study on real-time feedback control of the pilot-scale REBCO tape manufacturing process.
+          Advisor: Dr. Venkat Selvamanickam
+          Real-time feedback control of the reel-to-reel film deposition process: deposition system, quality check techniques, and control strategy.
       - degree: BSc in Mathematics and Physics
         university: Tsinghua University
         time: 2008 - 2012
         details: |
+          Advisor: Dr. Zhenghe Han
           Studied the fundamental mathematics and physics as well as embedded developement as a hobby.
-          Capstone project: simulation (finite element method) and experiment on
-            - Eletromagnetic characterization of high-temperature superconductors.
-            - Dynamic eletromagnetic properties (inductance, AC loss) of high-temperature superconducting coils.
+          Capstone project: Inductance of superconducting coils. 
 experiences:
-    title: Experiences
+    title: Work Experiences
     info:
       - role: Research Assistant
         time: 2017 - Present
         company: University of Houston, Houston, Texas
         details: |
-          Besides of the academic research, also supported other projects in the group as a full-stack engineer on the following aspects:
-            - Mechanical design and machining
-            - Electrical design and wiring
-            - Electronic design and PCB making
-            - Automation and programming
-            - Data acquisition and post-processing
+          Besides of the academic research, I also supported other projects in the group as a full-stack engineer on Mechanical design and machining; Electrical design and wiring; Electronic design and circuit making; Automation and programming; Data acquisition and post-processing.
       - role: R&D Manager
         time: 2015 - 2016
         company: Eastforce Superconducting Technology Co., Ltd., Beijing, China
         details: |
-          Leaded the development and commercialization of varies superconductor characterization tools and superconducting applications.
+          As the first employee of a startup company, I leaded the development and commercialization of varies superconductor characterization tools and superconducting applications.
       - role: Research Assistant
         time: 2014
         company: Tsinghua University, Beijing, China
@@ -110,7 +100,7 @@ experiences:
             - Process control and monitoring during heat treatment.
             - Reel-to-reel tape thickness and width monitoring.
 projects:
-    title: Projects
+    title: Research Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -135,6 +125,15 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+          simulation (finite element method) and experiment on
+            - Eletromagnetic characterization of high-temperature superconductors.
+            - Dynamic eletromagnetic properties (inductance, AC loss) of high-temperature superconducting coils.
+          Real-time feedback control of the reel-to-reel film deposition process - deposition system, quality check techniques, and control strategy. 
+            - Designed and built three reel-to-reel MOCVD systems for depositing REBCO tapes.
+            - Developed a reel-to-reel offline 65K/77K self-field/in-field critical current density mapping tool for REBCO tapes.
+            - Developed a reel-to-reel inline 2D X-ray diffraction quality check system for REBCO tapes.
+            - Came up with a machine learning-based method to predict the offline performance based on inline measurement results in real-time.
+            - Conducted preliminary study on real-time feedback control of the pilot-scale REBCO tape manufacturing process.
 
 publications:
     title: Publications
@@ -204,22 +203,22 @@ skills:
 
     toolset:
       - name: Automation and Control (PLC & microcontrollers & hardware/software embedded development)
-        level: 95%
+        level: 
       
       - name: Data processing (statistical and machine learning-based, by Python/C++/C# etc.)
-        level: 100%
+        level: 
 
       - name: FEM simulation (electromagnetic & mechanical & thermal, by Comsol/ANSYS/in-house code)
-        level: 85%
+        level: 
 
       - name: Mechanical design (CAD, by Solidworks & Inventor & FreeCAD)
-        level: 95%
+        level: 
         
       - name: Electrial and Electronic design (digital and some analogue, by KiCAD)
-        level: 80%
+        level: 
 
       - name: Web application development (HTML5 & CSS3 & PHP & Python/Flask)
-        level: 95%
+        level: 
         
       
 
