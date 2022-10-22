@@ -64,13 +64,13 @@ education:
         time: 2017 - Present
         details: |
           Advisor: Dr. Venkat Selvamanickam
-          Real-time feedback control of the reel-to-reel film deposition process: deposition system, quality check techniques, and control strategy.
+          - Real-time feedback control of the reel-to-reel film deposition process: deposition system, quality check techniques, and control strategy.
       - degree: BSc in Mathematics and Physics
         university: Tsinghua University
         time: 2008 - 2012
         details: |
           Advisor: Dr. Zhenghe Han
-          Studied the fundamental mathematics and physics as well as embedded developement as a hobby.
+          - Studied the fundamental mathematics and physics as well as embedded developement as a hobby.
           Capstone project: Inductance of superconducting coils. 
 experiences:
     title: Work Experiences
@@ -125,15 +125,20 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps
+      - title: 
+        link: "#"
+        tagline: |
           simulation (finite element method) and experiment on
             - Eletromagnetic characterization of high-temperature superconductors.
             - Dynamic eletromagnetic properties (inductance, AC loss) of high-temperature superconducting coils.
-          Real-time feedback control of the reel-to-reel film deposition process - deposition system, quality check techniques, and control strategy. 
+      - title: Real-time feedback control of the reel-to-reel film deposition process
+        link: "#"
+        tagline: |
             - Designed and built three reel-to-reel MOCVD systems for depositing REBCO tapes.
             - Developed a reel-to-reel offline 65K/77K self-field/in-field critical current density mapping tool for REBCO tapes.
             - Developed a reel-to-reel inline 2D X-ray diffraction quality check system for REBCO tapes.
             - Came up with a machine learning-based method to predict the offline performance based on inline measurement results in real-time.
-            - Conducted preliminary study on real-time feedback control of the pilot-scale REBCO tape manufacturing process."
+            - Conducted preliminary study on real-time feedback control of the pilot-scale REBCO tape manufacturing process.
 
 publications:
     title: Publications
