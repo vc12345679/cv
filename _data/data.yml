@@ -50,9 +50,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Second paragraph if required.
+      Over ten years experiences in superconductor characterization technique, superconducting applications and pilot-scale film deposition processes.
+      Expert in: 
+      * reel-to-reel measurement of long high-temperature superconducting tapes; 
+      * dynamic electromagnetic responses of superconducting coils;
+      * film deposition processes, e.g., MOCVD.
+      
 education:
     title: Education
     info:
@@ -60,18 +63,15 @@ education:
         university: University of Houston
         time: 2017 - Now
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Studied and developed inline and offline reel-to-reel characterization techniques for REBCO tapes and the feedback control of the film deposition process. Also supported other studies in the group as a full-stack research assistant.
+            - as a full-stack engineer, designed and built three reel-to-reel MOCVD systems for depositing high-temperature superconducting tapes.
+            - developed a reel-to-reel 65K/77K self-field/in-field critical current density mapping tool for REBCO tapes.
+            - developed a reel-to-reel inline two-dimensional X-ray diffraction monitoring system for the deposited REBCO tapes.
       - degree: BSc in Mathematics and Physics
         university: Tsinghua University
         time: 2008 - 2012
         details: |
-          
+          Studied the fundamental mathematics and physics as well as embedded developement as a hobby.
           Capstone project: simulation (finite element method) and experiment on
             - Eletromagnetic characterization of high-temperature superconductors
             - Dynamic eletromagnetic properties of high-temperature superconducting coils
