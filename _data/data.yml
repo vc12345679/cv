@@ -27,21 +27,12 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
-
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Professional
-
-        - idiom: Chinese
-          level: Native
+    pdf: ./print
 
     interests:
       title: Interests
       info:
-        - item: Mountain biking
+        - item: Mountain bike
           link:
 
         - item: Embedded development
@@ -65,7 +56,6 @@ education:
         details: |
           - Advisor: Dr. Venkat Selvamanickam
           - Real-time feedback control of the reel-to-reel film deposition process: deposition system, quality check techniques, and control strategy.
-      - degree: BSc in Mathematics and Physics
         university: Tsinghua University
         time: 2008 - 2012
         details: |
@@ -104,24 +94,37 @@ projects2:
     info:
       - title: Pilot-Scale Advanced MOCVD System for Manufacturing Long REBCO Tapes
         details: |
-          To prove the extendability of the world-record performance in short REBCO samples to production scale.
+          To prove the extendability of the world-record performance in short REBCO samples to production scale, I
             - Fully designed and implemented the electronic circuit, the electrical wiring, the control strategy and the program framework of the system;
             - Partially designed the mechanical structures and fully assembled the hardware;
+            - Successfully manufactured uniform high-performance tape with length longer than 50m;
             - The developed software framework has been migrated to another two MOCVD systems.
+      - title: Reel-to-Reel 65K/77K Self-Field/In-Field Critical Current Density Mapping Tool for Long REBCO Tapes
+        details: |
+          To extract the 2D performance distribution of REBCO tape, I
+            - Developed a reel-to-reel motion system enabling the REBCO tapes going between room temperature and 65K;
+            - Implemented a reciporical Hall probe scanner and a rotary Hall probe scanner under 77K/65K;
+            - Successfully measured the 77K/65K critical current density profile of long REBCO tapes with the presence of external magnetic field between 0-5 Tesla;
+            - The tools are now being routinely used to examine the produced REBCO tapes.
+      - title: Inline Quality Check by 2D X-ray Diffraction In An Advanced MOCVD System
+        details: |
+          To monitor the REBCO and the dopants lattice qualities in semi-realtime, I
+            - Designed a mechanical structure allowing all the peaks of interest being detected at a single exposure;
+            - Developed a numerical method to automatically detect the peak of interest in the 2D XRD exposures and rectify the image with the presence of vibration and curvature;
+            - Trained a high-precision (>85%) machine learning-based model to predict the tape performance after post-processing;
+            - Ultimately, got a promising feedback source for real-time closed-loop process control.
+      - title: Electromechanical properties of REBCO Tapes
+        details: |
+          The electromechanical properties of REBCO tapes are very important for high-field applications. I
+            - Built a tensile I-V testing and a torsion I-V testing system;
+            - Extracted the critical current denpendencies on varies of strains/stresses;
+            - The system becomes a key quality checking tool for developing high-strength REBCO tapes.
       - title: Inductance of Superconducting Coils
         details: |
           To better understand the dynamic eletromagnetic characteristics of high-temperature superconducting (HTS) coils, I
             - Simulated the current distributions in HTS coils with varies dimensions by finite element method (utilizing ANSYS);
             - Designed and implemented a automated platform for measuring dynamic eletromagnetic properties, including inductance and AC loss, of HTS conductors;
             - Proposed and verified the nonlinear behavior of the inductance in HTS coils which provided guidelines for designing non-DC superconducting applications.
-      - title: Real-time feedback control of the reel-to-reel film deposition process
-        details: |
-          
-            - Designed and built three reel-to-reel MOCVD systems for depositing REBCO tapes.
-            - Developed a reel-to-reel offline 65K/77K self-field/in-field critical current density mapping tool for REBCO tapes.
-            - Developed a reel-to-reel inline 2D X-ray diffraction quality check system for REBCO tapes.
-            - Came up with a machine learning-based method to predict the offline performance based on inline measurement results in real-time.
-            - Conducted preliminary study on real-time feedback control of the pilot-scale REBCO tape manufacturing process.
 
 publications:
     title: Publications
@@ -129,7 +132,7 @@ publications:
       Publications including journal papers, conference proceedings and patents.
     papers:
       - title: Scale Up of High-Performance REBCO Tapes in a Pilot-Scale Advanced MOCVD Tool With In-Line 2D-XRD System
-        authors: S. Chen and M., Goran, R. Jain, R. Pratap, V. Mohan, C. Goel and V. Selvamanickam
+        authors: <b>S. Chen</b> and M., Goran, R. Jain, R. Pratap, V. Mohan, C. Goel and V. Selvamanickam
         conference: IEEE Trans. Appl. Supercond. (2021)
         link: https://doi.org/10.1109/TASC.2021.3058868
       - title: Reel-to-Reel Scanning Hall Probe Microscope Measurement on REBCO Tapes
