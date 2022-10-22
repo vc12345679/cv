@@ -20,7 +20,7 @@ sidebar:
     linkedin: siweichen
     xing:
     github: vc12345679
-    telegram: vc12345679
+    telegram: siwei_chen
     gitlab:
     bitbucket:
     twitter:
@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Over ten years experiences in superconductor characterization technique, superconducting applications and pilot-scale film deposition process.
+      Over ten years experiences in superconducting tape characterization techniques, superconducting coil applications and pilot-scale film deposition process.
       Expert in: 
       * reel-to-reel measurement of long high-temperature superconducting tapes; 
       * dynamic electromagnetic responses of superconducting coils;
@@ -65,9 +65,9 @@ education:
         details: |
           Real-time feedback control of the reel-to-reel film deposition process: deposition system, quality check techniques, and methodology. 
             - Designed and built three reel-to-reel MOCVD systems for depositing REBCO tapes.
-            - Developed a reel-to-reel offlien 65K/77K self-field/in-field critical current density mapping tool for REBCO tapes.
-            - Developed a reel-to-reel inline 2D X-ray diffraction monitoring system for the deposited REBCO tapes.
-            - Came up with a machine learning-based method to connect the offline and inline measurement results.
+            - Developed a reel-to-reel offline 65K/77K self-field/in-field critical current density mapping tool for REBCO tapes.
+            - Developed a reel-to-reel inline 2D X-ray diffraction quality check system for REBCO tapes.
+            - Came up with a machine learning-based method to predict the offline performance based on inline measurement results in real-time.
             - Conducted preliminary study on real-time feedback control of the pilot-scale REBCO tape manufacturing process.
       - degree: BSc in Mathematics and Physics
         university: Tsinghua University
@@ -75,8 +75,8 @@ education:
         details: |
           Studied the fundamental mathematics and physics as well as embedded developement as a hobby.
           Capstone project: simulation (finite element method) and experiment on
-            - Eletromagnetic characterization of high-temperature superconductors
-            - Dynamic eletromagnetic properties of high-temperature superconducting coils
+            - Eletromagnetic characterization of high-temperature superconductors.
+            - Dynamic eletromagnetic properties (inductance, AC loss) of high-temperature superconducting coils.
 experiences:
     title: Experiences
     info:
@@ -84,12 +84,12 @@ experiences:
         time: 2017 - Present
         company: University of Houston, Houston, Texas
         details: |
-          Besides of the academic research, also supported other projects in the group as a full-stack research assistant on the following aspects:
+          Besides of the academic research, also supported other projects in the group as a full-stack engineer on the following aspects:
             - Mechanical design and machining
             - Electrical design and wiring
             - Electronic design and PCB making
             - Automation and programming
-            - Data acquisition and processing
+            - Data acquisition and post-processing
       - role: R&D Manager
         time: 2015 - 2016
         company: Eastforce Superconducting Technology Co., Ltd., Beijing, China
@@ -100,7 +100,7 @@ experiences:
         company: Tsinghua University, Beijing, China
         details: |
           Conducted research on superconductor characterization techniques and superconducting applications.
-            - Developed a reel-to-reel electromagnetic characterization technique for long high-temperature superconducting tapes.
+            - Implemented a reel-to-reel 77K self-field critical current measurement technique for long high-temperature superconducting tapes.
             - Invented and realized a passive open magnetic field shielding technique in form of superconducting coil groups.
       - role: Technical Consultant
         time: 2012 - 2013
