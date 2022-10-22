@@ -125,10 +125,10 @@ projects2:
             - Extracted the 77K self-field critical current performances under varies of strains/stresses.
       - title: Inductance of Superconducting Coils
         details: |
-          To better understand the dynamic eletromagnetic characteristics of HTS coils, I
+          To understand the dynamic eletromagnetic characteristics of HTS coils to better guide the design of non-DC superconducting applications
             - Simulated the current distributions in HTS coils with varies dimensions by finite element method (utilizing ANSYS);
             - Designed and implemented a automated platform for measuring dynamic eletromagnetic properties, including inductance and AC loss, of HTS conductors;
-            - Proposed and verified the nonlinear behavior of the inductance in HTS coils which provided guidelines for designing non-DC superconducting applications.
+            - Discovered and verified the nonlinear behavior of the inductance in HTS coils and revised the inductive voltage and stored energy.
 
 publications:
     title: Publications
