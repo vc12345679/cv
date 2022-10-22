@@ -105,12 +105,17 @@ projects2:
             - Partially designed the mechanical structures and fully assembled the hardwares;
             - Successfully manufactured over 50m uniform high-performance single tape;
             - Reused the developed software framework to support another two MOCVD systems.
+          
+          [[image]](assets/images/mocvd.jpg)
       - title: Reel-to-Reel 65K/77K Self-Field/In-Field Critical Current Density Mapping Tool for Long REBCO Tapes
         details: |
           To routinely examine the quality of the produced long REBCO tapes by extracting their 2D performance distributions,
             - Designed and developed a reel-to-reel motion system enabling the REBCO tapes going between room evniroment and 65K vacuum;
             - Implemented a reciporical Hall probe scanner and a rotary Hall probe scanner under low temperature;
-            - Successfully measured the 77K/65K critical current density profile of long REBCO tapes with external magnetic field in range 0-5T;
+            - Successfully measured the 77K/65K critical current density profile of long REBCO tapes with external magnetic field in range 0-5T.
+          
+          [[image1]](assets/images/5t.png)
+          [[image2]](assets/images/5t1.png)
       - title: Inline Quality Check by 2D X-ray Diffraction In An Advanced MOCVD System
         details: |
           To monitor the REBCO and the dopants lattice qualities inline as a solid feedback source for real-time closed-loop process control,
@@ -118,6 +123,9 @@ projects2:
             - Invented a numerical method to automatically detect peak of interest in the 2D XRD exposures and rectify the image with the presence of vibration and curvature;
             - Reused the developed code to monitor bi-texture quality of buffer templates in an IBAD system by RHEED;
             - Developed a high precision (>85%) machine learning model to predict the tape performance without post-processing.
+          
+          [[image]](assets/images/xrd1.png)
+          [[animation]](assets/images/xrd.gif)
       - title: Electromechanical properties of REBCO Tapes
         details: |
           To provide electromechanical properties when developing high-strength REBCO tapes for high-fields applications,
