@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Over ten years experiences in superconductor characterization technique, superconducting applications and pilot-scale film deposition processes.
+      Over ten years experiences in superconductor characterization technique, superconducting applications and pilot-scale film deposition process.
       Expert in: 
       * reel-to-reel measurement of long high-temperature superconducting tapes; 
       * dynamic electromagnetic responses of superconducting coils;
@@ -61,12 +61,14 @@ education:
     info:
       - degree: (Pursuing) PhD in Mechanical Engineer
         university: University of Houston
-        time: 2017 - Now
+        time: 2017 - Present
         details: |
-          Studied and developed inline and offline reel-to-reel characterization techniques for REBCO tapes and the feedback control of the film deposition process. Also supported other studies in the group as a full-stack research assistant.
-            - as a full-stack engineer, designed and built three reel-to-reel MOCVD systems for depositing high-temperature superconducting tapes.
-            - developed a reel-to-reel 65K/77K self-field/in-field critical current density mapping tool for REBCO tapes.
-            - developed a reel-to-reel inline two-dimensional X-ray diffraction monitoring system for the deposited REBCO tapes.
+          Real-time feedback control of the reel-to-reel film deposition process: deposition system, quality check techniques, and methodology. 
+            - Designed and built three reel-to-reel MOCVD systems for depositing REBCO tapes.
+            - Developed a reel-to-reel offlien 65K/77K self-field/in-field critical current density mapping tool for REBCO tapes.
+            - Developed a reel-to-reel inline 2D X-ray diffraction monitoring system for the deposited REBCO tapes.
+            - Came up with a machine learning-based method to connect the offline and inline measurement results.
+            - Conducted preliminary study on real-time feedback control of the pilot-scale REBCO tape manufacturing process.
       - degree: BSc in Mathematics and Physics
         university: Tsinghua University
         time: 2008 - 2012
@@ -78,13 +80,21 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Technical Consultant
-        time: 2012 - 2013
-        company: Innova Superconductor Technology Co., Ltd., Beijing, China
+      - role: Research Assistant
+        time: 2017 - Present
+        company: University of Houston, Houston, Texas
         details: |
-          In charge of automation in the 1st generation high-temperature superconducting tape (BSCCO/Bi-2223) production line.
-            - Process control and monitoring during heat treatment.
-            - Reel-to-reel tape thickness and width monitoring.
+          Besides of the academic research, also supported other projects in the group as a full-stack research assistant on the following aspects:
+            - Mechanical design and machining
+            - Electrical design and wiring
+            - Electronic design and PCB making
+            - Automation and programming
+            - Data acquisition and processing
+      - role: R&D Manager
+        time: 2015 - 2016
+        company: Eastforce Superconducting Technology Co., Ltd., Beijing, China
+        details: |
+          Leaded the development and commercialization of varies superconductor characterization tools and superconducting applications.
       - role: Research Assistant
         time: 2014
         company: Tsinghua University, Beijing, China
@@ -92,13 +102,13 @@ experiences:
           Conducted research on superconductor characterization techniques and superconducting applications.
             - Developed a reel-to-reel electromagnetic characterization technique for long high-temperature superconducting tapes.
             - Invented and realized a passive open magnetic field shielding technique in form of superconducting coil groups.
-      - role: R&D Manager
-        time: 2015 - 2016
-        company: Eastforce Superconducting Technology Co., Ltd., Beijing, China
+      - role: Technical Consultant
+        time: 2012 - 2013
+        company: Innova Superconductor Technology Co., Ltd., Beijing, China
         details: |
-          Leaded the development and commercialization of varies superconductor characterization tools and superconducting applications.
-            - Bullet point
-            - Bullet point
+          In charge of automation in the 1st generation high-temperature superconducting tape (BSCCO/Bi-2223) production line.
+            - Process control and monitoring during heat treatment.
+            - Reel-to-reel tape thickness and width monitoring.
 projects:
     title: Projects
     intro: >
