@@ -189,22 +189,35 @@ publications:
 skills:
     title: Skills &amp; Proficiency
     toolset:
+    
       - name: Automation and Control (PLC & microcontrollers & hardware/software embedded development)
+      
       - name: Data processing (statistical and machine learning-based, by Python/C++/C# etc.)
+      
       - name: FEM simulation (electromagnetic & mechanical & thermal, by Comsol/ANSYS/in-house code)
+      
       - name: Mechanical design (CAD, by Solidworks & Inventor & FreeCAD)
+      
       - name: Electrial and Electronic design (digital and some analogue, by KiCAD)
+      
       - name: Database operation (relational database such as MySQL/MariaDB & time-series database such as InfluxDB)
+      
       - name: Web application development (HTML5 & CSS3 & PHP & Python/Flask)
         
 honors:
     title: Honors &amp; Awards
     details:
-      - name: [2021] ISS2021 - Encouragement Award (best oral presentation) 
+    
+      - name: [2021] ISS2021 - Encouragement Award (best oral presentation)
+      
       - name: [2020] TcSUH Cora Hawley Scholarship
+      
       - name: [2019] American Bureau of Shipping Scholarship
+      
       - name: [2017] Houston Endowment Fellowship
+      
       - name: [2017] University of Houston Presidential Fellowship
+      
       - name: [2016] China Electric Power Sci & Tech Award (invention category, 3rd prize)
     
 appointments:
