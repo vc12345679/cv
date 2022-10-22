@@ -66,24 +66,24 @@ experiences:
     info:
       - role: Research Assistant
         time: 2017 - Present
-        company: University of Houston, Houston, Texas
+        company: <a target="_blank" href="https://selva.me.uh.edu/">University of Houston, Houston, Texas</a>
         details: |
           Besides of the academic research, also supported other projects in the group as a full-stack engineer on Mechanical design and machining; Electrical design and wiring; Electronic design and circuit making; Automation and programming; Data acquisition and post-processing.
       - role: R&D Manager
         time: 2015 - 2016
-        company: Eastforce Superconducting Technology Co., Ltd., Beijing, China
+        company: <a target="_blank" href="http://eastfs.com/">Eastforce Superconducting Technology Co., Ltd., Beijing, China</a>
         details: |
           As the first employee of a startup company, leaded the development and commercialization of varies superconductor characterization tools and superconducting applications.
       - role: Research Assistant
         time: 2014 - 2014
-        company: Tsinghua University, Beijing, China
+        company: <a target="_blank" href="https://www.tsinghua.edu.cn/">Tsinghua University, Beijing, China</a>
         details: |
           Conducted research on superconductor characterization techniques and superconducting applications.
             - Implemented a reel-to-reel 77K self-field critical current measurement technique for long HTS tapes
             - Invented and realized a passive open magnetic field shielding technique in form of superconducting coil groups (PCT/CN/US patent granted)
       - role: Technical Consultant
         time: 2012 - 2013
-        company: Innova Superconductor Technology Co., Ltd., Beijing, China
+        company: <a target="_blank" href="http://www.innost.com/">Innova Superconductor Technology Co., Ltd., Beijing, China</a>
         details: |
           In charge of automation in the 1st generation HTS tape (BSCCO/Bi-2223) production line.
             - Process control and monitoring during heat treatment
