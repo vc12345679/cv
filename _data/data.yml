@@ -63,13 +63,13 @@ education:
         university: University of Houston
         time: 2017 - Present
         details: |
-          Advisor: Dr. Venkat Selvamanickam
+          - Advisor: Dr. Venkat Selvamanickam
           - Real-time feedback control of the reel-to-reel film deposition process: deposition system, quality check techniques, and control strategy.
       - degree: BSc in Mathematics and Physics
         university: Tsinghua University
         time: 2008 - 2012
         details: |
-          Advisor: Dr. Zhenghe Han
+          - Advisor: Dr. Zhenghe Han
           - Studied the fundamental mathematics and physics as well as embedded developement as a hobby.
           Capstone project: Inductance of superconducting coils. 
 experiences:
@@ -107,7 +107,7 @@ projects2:
           To prove the extendability of the world-record performance in short REBCO samples to production scale.
             - Fully designed and implemented the electronic circuit, the electrical wiring, the control strategy and the program framework of the system;
             - Partially designed the mechanical structures and fully assembled the hardware;
-            - The developed software framework has been migrated in another two MOCVD systems.
+            - The developed software framework has been migrated to another two MOCVD systems.
       - title: Inductance of Superconducting Coils
         details: |
           To better understand the dynamic eletromagnetic characteristics of high-temperature superconducting (HTS) coils, I
@@ -190,35 +190,55 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
     
-      - name: Automation and Control (PLC & microcontrollers & hardware/software embedded development)
+      - name: Automation and Control
+      - details: |
+          - PLC & microcontrollers & hardware/software embedded development
       
-      - name: Data processing (statistical and machine learning-based, by Python/C++/C# etc.)
+      - name: Data processing
+      - details: |
+          - statistical and machine learning-based, by Python/C++/C# etc.
       
-      - name: FEM simulation (electromagnetic & mechanical & thermal, by Comsol/ANSYS/in-house code)
+      - name: FEM simulation
+      - details: |
+          - electromagnetic & mechanical & thermal, by Comsol/ANSYS/in-house code
       
-      - name: Mechanical design (CAD, by Solidworks & Inventor & FreeCAD)
+      - name: Mechanical design
+      - details: |
+          - CAD, by Solidworks & Inventor & FreeCAD
       
-      - name: Electrial and Electronic design (digital and some analogue, by KiCAD)
+      - name: Electrial and Electronic design
+      - details: |
+          - digital and some analogue, by KiCAD
       
-      - name: Database operation (relational database such as MySQL/MariaDB & time-series database such as InfluxDB)
+      - name: Database operation
+      - details: |
+          - relational database such as MySQL/MariaDB & time-series database such as InfluxDB
       
-      - name: Web application development (HTML5 & CSS3 & PHP & Python/Flask)
+      - name: Web application development
+      - details: |
+          - by HTML5 & CSS3 & PHP & Python/Flask
         
 honors:
     title: Honors &amp; Awards
     details:
     
-      - name: [2021] ISS2021 - Encouragement Award (best oral presentation)
+      - name: ISS2021 Encouragement Award (best oral presentation)
+        year: 2021
       
-      - name: [2020] TcSUH Cora Hawley Scholarship
+      - name: TcSUH Cora Hawley Scholarship
+        year: 2020
       
-      - name: [2019] American Bureau of Shipping Scholarship
+      - name: American Bureau of Shipping Scholarship
+        year: 2019
       
-      - name: [2017] Houston Endowment Fellowship
+      - name: Houston Endowment Fellowship
+        year: 2017
       
-      - name: [2017] University of Houston Presidential Fellowship
+      - name: University of Houston Presidential Fellowship
+        year: 2017
       
-      - name: [2016] China Electric Power Sci & Tech Award (invention category, 3rd prize)
+      - name: China Electric Power Sci & Tech Award (3rd best invention prize)
+        year: 2016
     
 appointments:
     title: Appointments

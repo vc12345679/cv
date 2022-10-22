@@ -1,6 +1,6 @@
 {% assign appointments = site.data.data.appointments %}
 {% if appointments %}
-<section class="skills-section section">
+<section class="section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
@@ -10,17 +10,9 @@
     {{ appointments.title }}
   </h2>
 
-  <div class="skillset">
-
     {% for appointment in appointments.details %}
-    <div class="item">
-
-      <h3 class="level-title">{{ appointment.name }}</h3>
-
-    </div><!--//item-->
+      <li class="degree">{{ appointment.name }}</li>
     {% endfor %}
-
-  </div>
 
 </section><!--//appointments-section-->
 {% endif %}
