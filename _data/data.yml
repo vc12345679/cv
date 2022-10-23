@@ -35,15 +35,19 @@ sidebar:
         - item: Expected graduation in Dec 2022
           link:
           
+        - item: <li class="print"><i class="fas fa-print fa-2xl"></i><a href="javascript:if(window.print)window.print()">Print a PDF copy</a></li>
+          link:
+          
 
 career-profile:
     title: Summary
     summary: |
-      Over ten years experiences in superconducting tape characterization techniques, superconducting coil applications and pilot-scale film deposition process.
+      Over ten years experiences in superconducting tape characterization techniques, superconducting coil applications and pilot-scale film deposition process. Full-stack ability in developing large-scale equipment.
       Expert in: 
+      * Designing and building flexible and scalable automated systems;
       * Reel-to-reel measurement of long high-temperature superconducting (HTS) tapes; 
       * Dynamic electromagnetic characteristics of superconducting coils;
-      * Film deposition processes, e.g., MOCVD.
+      * Film deposition processes, e.g., MOCVD, IBAD.
       
 education:
     title: Education
@@ -53,7 +57,7 @@ education:
         time: 2017 - 2022(Dec)
         details: |
           - Advisor: Dr. Venkat Selvamanickam (former SuperPower CTO)
-          - Real-time feedback control of the reel-to-reel film deposition process: deposition system, quality check techniques, and control strategy.
+          - Real-time feedback control of the reel-to-reel film deposition process: Deposition system, Quality check techniques, and Control strategy.
       - degree: B.Sc. in Mathematics and Physics
         university: Tsinghua University, Beijing, China
         time: 2008 - 2012
@@ -204,6 +208,12 @@ publications:
 skills:
     title: Skills &amp; Proficiency
     toolset:
+    
+      - name: Organization, Leadership and Collaboration
+      - details: |
+            - Organized ELEVATE interactive student sessions in 2020 and 2022 ASC conferences
+            - Leaded over twenty undergraduate / master / doctoral RAs in research activities
+            - Collabrated with over six research groups in exploring control strategies
     
       - name: Automation and Control
       - details: |
