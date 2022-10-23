@@ -27,14 +27,14 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: ./print
+    pdf: 
 
     interests:
       title: Open To Work
       info:
         - item: Expected graduation in Dec 2022
           link:
-
+          
 
 career-profile:
     title: Summary
