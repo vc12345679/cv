@@ -43,11 +43,11 @@ career-profile:
     title: Summary
     summary: |
       Over ten years of experience in the high-temperature superconductivity (**HTS**) area, including material growth research, characterization techniques, application development, as well as commercialization. Full-stack ability in developing large-scale equipment.
-      Expert in: 
-      * Designing and building flexible and scalable automated systems;
-      * Reel-to-reel inline/offline measurement of long HTS tapes; 
-      * Dynamic electromagnetic characteristics of superconducting coils;
-      * Pilot-scale film deposition processes, e.g., MOCVD, IBAD.
+      Expert in
+      * Designing and building flexible and scalable automated systems
+      * Reel-to-reel inline/offline measurement of long HTS tapes
+      * Dynamic electromagnetic characteristics of superconducting coils
+      * Pilot-scale film deposition processes, e.g., MOCVD, IBAD
       
 education:
     title: Education
@@ -57,14 +57,14 @@ education:
         time: 2017 - 2022(Dec)
         details: |
           - Advisor: Dr. Venkat Selvamanickam (former SuperPower CTO)
-          - Real-time feedback control of the pilot-scale reel-to-reel film deposition process: Deposition system, Quality check techniques, and Control strategy.
+          - Real-time feedback control of the pilot-scale reel-to-reel film deposition process: Deposition system, Quality check techniques, and Control strategy
       - degree: B.Sc. in Mathematics and Physics
         university: Tsinghua University, Beijing, China
         time: 2008 - 2012
         details: |
           - Advisor: Dr. Zhenghe Han (former Innova Superconductor CEO)
-          - Studied the fundamental mathematics and physics as well as embedded developement as a hobby.
-          Capstone project: Inductance of superconducting coils. 
+          - Studied the fundamental mathematics and physics as well as embedded development as a hobby.
+          Capstone project: Inductance of superconducting coils
 experiences:
     title: Work Experiences
     info:
@@ -72,24 +72,24 @@ experiences:
         time: 2017 - Present
         company: <a target="_blank" href="https://selva.me.uh.edu/">University of Houston, Houston, Texas</a>
         details: |
-          Besides of the academic research, also supported other projects in the group as a full-stack engineer on Mechanical design and machining; Electrical design and wiring; Electronic design and circuit making; Automation and programming; Data acquisition and post-processing.
+          Besides academic research, also supported other projects in the group as a full-stack engineer on: Mechanical design and machining; Electrical design and wiring; Electronic design and circuit making; Automation and programming; Data acquisition and post-processing
       - role: R&D Manager
         time: 2015 - 2016
         company: <a target="_blank" href="http://eastfs.com/">Eastforce Superconducting Technology Co., Ltd., Beijing, China</a>
         details: |
-          As the first employee of a startup company, led the development and commercialization of varies superconductor characterization tools and superconducting applications.
+          As the first employee of a startup company, led the development and commercialization of various superconductor characterization tools and superconducting applications
       - role: Research Assistant
         time: 2014 - 2014
         company: <a target="_blank" href="https://www.tsinghua.edu.cn/">Tsinghua University, Beijing, China</a>
         details: |
-          Conducted research on superconductor characterization techniques and superconducting applications.
+          Conducted research on superconductor characterization techniques and superconducting applications
             - Implemented a reel-to-reel 77K self-field critical current measurement technique for long HTS tapes
             - Invented and realized a passive open magnetic field shielding technique in form of superconducting coil groups (PCT/CN/US patent granted)
       - role: Technical Consultant
         time: 2012 - 2013
         company: <a target="_blank" href="http://www.innost.com/">Innova Superconductor Technology Co., Ltd., Beijing, China</a>
         details: |
-          In charge of automation in the 1st generation HTS tape (BSCCO/Bi-2223) production line.
+          In charge of automation in the 1st generation HTS tape (BSCCO/Bi-2223) production line
             - Process control and monitoring during heat treatment
             - Reel-to-reel tape thickness and width monitoring
       - role: Intership
@@ -97,50 +97,50 @@ experiences:
         company: Intel Labs China, Beijing, China
         details: |
           Assisted embedded development on:
-            - Wireless display transmission (WiDi) in collabration with Lenovo
+            - Wireless display transmission (WiDi) in collaboration with Lenovo
             - Cross-device process migration on ARM platforms in collabration with Nokia
 projects2:
     title: Research Projects
     info:
       - title: Pilot-Scale Advanced MOCVD System for Manufacturing Long REBCO Tapes
         details: |
-          To prove the extendability of the world-record performance in short REBCO samples to production scale,
-            - Fully designed and implemented the electronic circuit, the electrical wiring, the control strategy and the program framework of the system;
-            - Partially designed the mechanical structures and fully assembled the hardwares;
-            - Successfully manufactured over 50m uniform high-performance single tape;
-            - Reused the developed software framework to support another two MOCVD systems.
+          To prove the extendability of the world-record performance in short REBCO samples to production scale
+            - Fully designed and implemented the electronic circuit, the electrical wiring, the control strategy and the program framework of the system
+            - Partially designed the mechanical structures and fully assembled the hardwares
+            - Successfully manufactured over 50m uniform high-performance single tape
+            - Reused the developed software framework to support another two MOCVD systems
           
           [[image]](assets/images/mocvd.jpg)
       - title: Reel-to-Reel 65K/77K Self-Field/In-Field Critical Current Density Mapping Tool for Long REBCO Tapes
         details: |
-          To routinely examine the quality of the produced long REBCO tapes by extracting their 2D performance distributions,
-            - Designed and developed a reel-to-reel motion system enabling the REBCO tapes going between room evniroment and 65K vacuum;
-            - Implemented a reciporical Hall probe scanner and a rotary Hall probe scanner under low temperature;
-            - Successfully measured the 77K/65K critical current density profile of long REBCO tapes with external magnetic field in range 0-5T.
+          To routinely examine the quality of the produced long REBCO tapes by extracting their 2D performance distributions
+            - Designed and developed a reel-to-reel motion system enabling the REBCO tapes going between room environment and 65K vacuum
+            - Implemented a reciprocal Hall probe scanner and a rotary Hall probe scanner under low temperature
+            - Successfully measured the 77K/65K critical current density profile of long REBCO tapes with external magnetic field in range 0-5T
           
           [[image1]](assets/images/5t.png)
           [[image2]](assets/images/5t1.png)
-      - title: Inline Quality Check by 2D X-ray Diffraction In An Advanced MOCVD System
+      - title: Inline Quality Check by 2D X-ray Diffraction in an Advanced MOCVD System
         details: |
-          To monitor the REBCO and the dopants lattice qualities inline as a solid feedback source for real-time closed-loop process control,
-            - Integrated a X-ray source and a 2D detector in the Advanced MOCVD System by customized mechanical structures;
-            - Invented a numerical method to automatically detect peak of interest in the 2D XRD exposures and rectify the image with the presence of vibration and curvature;
-            - Reused the developed code to monitor bi-texture quality of buffer templates in an IBAD system by RHEED;
-            - Developed a high precision (>85%) machine learning model to predict the tape performance without post-processing.
+          To monitor the REBCO and the dopants lattice qualities inline as a solid feedback source for real-time closed-loop process control
+            - Integrated a X-ray source and a 2D detector in the Advanced MOCVD System by customized mechanical structures
+            - Invented a numerical method to automatically detect peak of interest in the 2D XRD exposures and rectify the image with the presence of vibration and curvature
+            - Reused the developed code to monitor bi-texture quality of buffer templates in an IBAD system by RHEED
+            - Developed a high precision (>85%) machine learning model to predict the tape performance without post-processing
           
           [[image]](assets/images/xrd1.png)
           [[animation]](assets/images/xrd.gif)
       - title: Electromechanical properties of REBCO Tapes
         details: |
-          To provide electromechanical properties when developing high-strength REBCO tapes for high-fields applications,
-            - Built a tensile I-V testing and a torsion I-V testing system;
-            - Extracted the 77K self-field critical current performances under varies of strains/stresses.
+          To provide electromechanical properties when developing high-strength REBCO tapes for high-fields applications
+            - Built a tensile I-V testing and a torsion I-V testing system
+            - Extracted the 77K self-field critical current performances under various of strains/stresses
       - title: Inductance of Superconducting Coils
         details: |
           To understand the dynamic eletromagnetic characteristics of HTS coils to better guide the design of non-DC superconducting applications
-            - Simulated the current distributions in HTS coils with varies dimensions by finite element method (utilizing ANSYS);
-            - Designed and implemented a automated platform for measuring dynamic eletromagnetic properties, including inductance and AC loss, of HTS conductors;
-            - Discovered and verified the nonlinear behavior of the inductance in HTS coils and revised the inductive voltage and stored energy.
+            - Simulated the current distributions in HTS coils with various dimensions by finite element method (utilizing ANSYS)
+            - Designed and implemented an automated platform for measuring dynamic eletromagnetic properties, including inductance and AC loss, of HTS conductors
+            - Discovered and verified the nonlinear behavior of the inductance in HTS coils and revised the inductive voltage and stored energy
 
 publications:
     title: Publications
@@ -211,9 +211,9 @@ skills:
     
       - name: Organization, Leadership and Collaboration
       - details: |
-            - Organized ELEVATE interactive student sessions in 2020 and 2022 ASC conferences
-            - Leaded over twenty undergraduate / master / doctoral RAs in research activities
-            - Collabrated with over six research groups in exploring control strategies
+            - Organized ELEVATE interactive student sessions in 2020 and 2022 Applied Superconductivity Conference (ASC) conferences
+            - Led over twenty undergraduate / master / doctoral RAs in research activities
+            - Collaborated with over six research groups in exploring control strategies
     
       - name: Automation and Control
       - details: |
@@ -250,7 +250,7 @@ honors:
     title: Honors &amp; Awards
     details:
     
-      - name: ISS2021 Encouragement Award (Best Oral Presentation)
+      - name: Internet Symposium on Superconductivity 2021 Encouragement Award (Best Oral Presentation)
         year: 2021
       
       - name: TcSUH Cora Hawley Scholarship
@@ -271,7 +271,7 @@ honors:
 appointments:
     title: Appointments
     details:
-      - name: ASC2020 - ELEVATE Program Committee Member
+      - name: ASC2020 - ELEVATE Program Founding Committee Member
       - name: ASC2022 - Board Member; Material Program Committee Member; ELEVATE Program Committee Member
 
 footer: >
