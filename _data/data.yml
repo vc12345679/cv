@@ -130,11 +130,11 @@ projects2:
           
           [[image]](assets/images/xrd1.png)
           [[animation]](assets/images/xrd.gif)
-      - title: Electromechanical properties of REBCO Tapes
+      - title: Electromechanical Properties of REBCO Tapes
         details: |
           To provide electromechanical properties when developing high-strength REBCO tapes for high-fields applications
             - Built a tensile I-V testing and a torsion I-V testing system
-            - Extracted the 77K self-field critical current performances under various of strains/stresses
+            - Extracted the 77K self-field critical current performances under various strains/stresses
       - title: Inductance of Superconducting Coils
         details: |
           To understand the dynamic eletromagnetic characteristics of HTS coils to better guide the design of non-DC superconducting applications
