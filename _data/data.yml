@@ -96,7 +96,7 @@ experiences:
         time: 2011 - 2012
         company: Intel Labs China, Beijing, China
         details: |
-          Assisted embedded development on:
+          Assisted embedded development on
             - Wireless display transmission (WiDi) in collaboration with Lenovo
             - Cross-device process migration on ARM platforms in collabration with Nokia
 projects2:
@@ -147,6 +147,10 @@ publications:
     intro: |
       Publications including journal papers, conference proceedings and patents.
     papers:
+      - title: A Reel-to-Reel Scanning Hall Probe Microscope for Characterizing Long REBCO Conductor in Magnetic Fields Up to 5 Tesla
+        authors: Y. Li, <b>S. Chen</b>, M. Paidpilli, R. Jain, C. Goel and V. Selvamanickam
+        conference: IEEE Trans. Appl. Supercond. (2022)
+        link: https://doi.org/10.1109/TASC.2022.3140688
       - title: Scale Up of High-Performance REBCO Tapes in a Pilot-Scale Advanced MOCVD Tool With In-Line 2D-XRD System
         authors: <b>S. Chen</b> and M., Goran, R. Jain, R. Pratap, V. Mohan, C. Goel and V. Selvamanickam
         conference: IEEE Trans. Appl. Supercond. (2021)
@@ -159,14 +163,6 @@ publications:
         authors: <b>S. Chen</b>, C. Gu, Y. Li, L. Lai, T. Qu, N. Hu, M. Song, S. Zou and Y. Yue
         conference: IEEE Trans. Appl. Supercond. (2019)
         link: https://doi.org/10.1109/TASC.2019.2897868
-      - title: Observation and Analysis of Defects in Impregnated YBCO Racetrack Coil
-        authors: <b>S. Chen</b>, C. Gu, T. Qu, L. Lai, N. Hu and Y. Jiang
-        conference: IEEE Trans. Appl. Supercond. (2017)
-        link: https://doi.org/10.1109/TASC.2017.2662225
-      - title: A Reel-to-Reel Scanning Hall Probe Microscope for Characterizing Long REBCO Conductor in Magnetic Fields Up to 5 Tesla
-        authors: Y. Li, <b>S. Chen</b>, M. Paidpilli, R. Jain, C. Goel and V. Selvamanickam
-        conference: IEEE Trans. Appl. Supercond. (2022)
-        link: https://doi.org/10.1109/TASC.2022.3140688
       - title: Magnetization and Screening Current in an 800 MHz (18.8 T) REBCO Nuclear Magnetic Resonance Insert Magnet - Experimental Results and Numerical Analysis
         authors: Y. Li, D. Park, Y. Yan, Y. Choi, J. Lee, P. C. Michael, <b>S. Chen</b>, T. Qu, J. Bascunan and Y. Iwasa
         conference: Supercond. Sci. Technol. (2019)
@@ -179,6 +175,10 @@ publications:
         authors: L. Lai, C. Gu, Y. Yue, <b>S. Chen</b>, M. Song, N. Hu, T. Qu and S. Zou
         conference: IEEE Trans. Appl. Supercond. (2019)
         link: https://doi.org/10.1109/TASC.2019.2900354
+      - title: Observation and Analysis of Defects in Impregnated YBCO Racetrack Coil
+        authors: <b>S. Chen</b>, C. Gu, T. Qu, L. Lai, N. Hu and Y. Jiang
+        conference: IEEE Trans. Appl. Supercond. (2017)
+        link: https://doi.org/10.1109/TASC.2017.2662225
       - title: Experimental Realization of Open Magnetic Shielding
         authors: C. Gu, <b>S. Chen</b>, T. Pang and T. Qu
         conference: Appl. Phys. Lett. (2017)
