@@ -250,7 +250,7 @@ honors:
     title: Honors &amp; Awards
     details:
     
-      - name: Internet Symposium on Superconductivity 2021 Encouragement Award (Best Oral Presentation)
+      - name: Internet Symposium on Superconductivity 2021 Encouragement Award <p>(Best Oral Presentation)</p>
         year: 2021
       
       - name: TcSUH Cora Hawley Scholarship
@@ -271,8 +271,8 @@ honors:
 appointments:
     title: Appointments
     details:
-      - name: ASC2020 - ELEVATE Program Founding Committee Member
-      - name: ASC2022 - Board Member; Material Program Committee Member; ELEVATE Program Committee Member
+      - name: [ASC2020 - ELEVATE Program Founding Committee Member](https://appliedsuperconductivity.org/asc2020/conference-program/asc-elevate/)
+      - name: [ASC2022 - Board Member; Material Program Committee Member; ELEVATE Program Committee Member](https://www.appliedsuperconductivity.org/asc2022/elevate/)
 
 footer: >
     
