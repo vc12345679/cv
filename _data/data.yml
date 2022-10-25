@@ -92,13 +92,13 @@ experiences:
           In charge of automation in the 1st generation HTS tape (BSCCO/Bi-2223) production line
             - Process control and monitoring during heat treatment
             - Reel-to-reel tape thickness and width monitoring
-      - role: Intership
+      - role: Internship
         time: 2011 - 2012
         company: Intel Labs China, Beijing, China
         details: |
           Assisted embedded development on
             - Wireless display transmission (WiDi) in collaboration with Lenovo
-            - Cross-device process migration on ARM platforms in collabration with Nokia
+            - Cross-device process migration on ARM platforms in collaboration with Nokia
 projects2:
     title: Research Projects
     info:
