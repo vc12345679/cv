@@ -233,6 +233,10 @@ skills:
       - details: |
           - CAD (Solidworks / Inventor / FreeCAD)
       
+      - name: Mechaning
+      - details: |
+          - Drilling / Milling / Lathe / CNC / 3D printing
+      
       - name: Electrial and Electronic Design
       - details: |
           - Digital and analog circuit (KiCAD)
