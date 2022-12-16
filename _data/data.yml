@@ -31,10 +31,7 @@ sidebar:
 
     interests:
       title: Open To Work
-      info:
-        - item: Expected graduation in Dec 2022
-          link:
-          
+      info:          
         - item: <ul class="list-unstyled contact-list"><li class="print"><i class="fas fa-print fa-2xl"></i><a href="javascript:if(window.print)window.print()"> Print a PDF copy</a></li></ul>
           link:
           
