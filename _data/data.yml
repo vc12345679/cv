@@ -149,6 +149,10 @@ publications:
     intro: |
       Publications including journal papers, conference proceedings and patents.
     papers:
+      - title: High critical current STAR wires with REBCO tapes by advanced MOCVD
+        authors: E. Galstyan, J. Kadiyala, M. Paidpilli, C. Goel, J. Sai Sandra, V. Yerraguravagari, G. Majkic, R. Jain, <b>S. Chen</b>, Y. Li
+        conference: Supercond. Sci. Tech. (2023)
+        link: https://doi.org/10.1088/1361-6668/acc4ed
       - title: Development of 50-meter RE-Ba-Cu-O Tapes with Critical Current Over 1750 A/12mm at 65 K, 0.25 T by Advanced-MOCVD
         authors: M. Paidpili, C Goel, <b>S. Chen</b>, Y. Li, R. Jain, V. Shyam, M. Oad, V. Yerraguravagari, E. Galstyan, G. Majkic, R. M. Schimidt, C. M. Rey, T. H. Carnes and V. Selvamanickam
         conference: IEEE Trans. Appl. Supercond. (2023)
