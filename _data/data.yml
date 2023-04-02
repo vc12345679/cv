@@ -30,7 +30,7 @@ sidebar:
     pdf: 
 
     interests:
-      title: Open To Work
+      title: Open To Collaboration
       info:          
         - item: <ul class="list-unstyled contact-list"><li class="print"><i class="fas fa-print fa-2xl"></i><a href="javascript:if(window.print)window.print()"> Print a PDF copy</a></li></ul>
           link:
@@ -65,8 +65,13 @@ education:
 experiences:
     title: Work Experiences
     info:
+      - role: Strategic Science Initiative Postdoc
+        time: 2023 - Present
+        company: <a target="_blank" href="https://www.pppl.gov/">Princeton Plasma Physics Laboratory, Princeton, New Jersey</a>
+        details: |
+          Develop superconducting magnet technologies for reduced-cost fusion next step devices; also support the PPPL magnet program in the development of magnet user facilities for basic research.
       - role: Research Assistant
-        time: 2017 - Present
+        time: 2017 - 2022
         company: <a target="_blank" href="https://selva.me.uh.edu/">University of Houston, Houston, Texas</a>
         details: |
           Besides academic research, also supported other projects in the group as a full-stack engineer on: Mechanical design and machining; Electrical design and wiring; Electronic design and circuit making; Automation and programming; Data acquisition and post-processing
