@@ -150,6 +150,10 @@ publications:
     intro: |
       Publications including journal papers, conference proceedings and patents.
     papers:
+      - title: Reinforcement learning for real-time process control in high-temperature superconductor manufacturing
+        authors: Q. Feng, S. Peng, Y. Lin, <b>S. Chen</b>, M. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
+        conference:  Int. J. Adv. Manuf. Technol. (2023)
+        link: https://doi.org/10.1007/s00170-023-12369-y
       - title: High critical current STAR wires with REBCO tapes by advanced MOCVD
         authors: E. Galstyan, J. Kadiyala, M. Paidpilli, C. Goel, J. Sai Sandra, V. Yerraguravagari, G. Majkic, R. Jain, <b>S. Chen</b>, Y. Li
         conference: Supercond. Sci. Tech. (2023)
