@@ -150,6 +150,10 @@ publications:
     intro: |
       Publications including journal papers, conference proceedings and patents.
     papers:
+      - title: REBCO Insert Coils toward High-Field, Large-Bore Magnet for Quantum Physics Research
+        authors: Y. Li, S. Chen, Y. Yan, B. Berlinger, R. Matthiessen, Y. Zhai
+        conference: IEEE Trans. Appl. Supercond. (2024)
+        link: https://doi.org/10.1109/TASC.2024.3350598
       - title: Reinforcement learning for real-time process control in high-temperature superconductor manufacturing
         authors: Q. Feng, S. Peng, Y. Lin, <b>S. Chen</b>, M. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
         conference:  Int. J. Adv. Manuf. Technol. (2023)
