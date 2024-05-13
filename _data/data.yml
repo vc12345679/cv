@@ -150,6 +150,14 @@ publications:
     intro: |
       Publications including journal papers, conference proceedings and patents.
     papers:
+      - title: Quantile regression-enriched event modeling framework for dropout analysis in high-temperature superconductor manufacturing
+        authors: M.Li, Y. Lin, Q. Feng, W. Fu, S. Peng, S. Chen, Ma. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
+        conference: J. Intell. Manuf. (2024)
+        link: https://doi.org/10.1007/s10845-024-02358-7
+      - title: 40-meter-long REBCO tapes with critical current over 4,000 A/12 mm at 4.2 K and 13 T by advanced MOCVD
+        authors: M. Paidpilli, C. Goel, B. Sarangi, S. Chen, E. Galstyan, J. Jaroszynski, G. Bradford, D. Abraimov, V. Selvamanickam
+        conference: Superconductivity (2024)
+        link: https://doi.org/10.1016/j.supcon.2023.100081
       - title: REBCO Insert Coils toward High-Field, Large-Bore Magnet for Quantum Physics Research
         authors: Y. Li, S. Chen, Y. Yan, B. Berlinger, R. Matthiessen, Y. Zhai
         conference: IEEE Trans. Appl. Supercond. (2024)
