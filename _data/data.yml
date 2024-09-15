@@ -150,16 +150,20 @@ publications:
     intro: |
       Publications including journal papers, conference proceedings and patents.
     papers:
+      - title: Current sharing in double-sided REBCO tapes
+        authors: S. Xue, Y. Li, L. Zhu, B. Sarangi, J. Sai Sandra, J. Rong, N. Mai1, <b>S. Chen</b>, A. Chavda, U. Sambangi, J. Peram, P. Parthiban, V. Selvamanickam
+        conference: Supercond. Sci. Technol. (2024)
+        link: https://doi.org/10.1088/1361-6668/ad4e76
       - title: Quantile regression-enriched event modeling framework for dropout analysis in high-temperature superconductor manufacturing
-        authors: M.Li, Y. Lin, Q. Feng, W. Fu, S. Peng, S. Chen, Ma. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
+        authors: M.Li, Y. Lin, Q. Feng, W. Fu, S. Peng, <b>S. Chen</b>, M. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
         conference: J. Intell. Manuf. (2024)
         link: https://doi.org/10.1007/s10845-024-02358-7
       - title: 40-meter-long REBCO tapes with critical current over 4,000 A/12 mm at 4.2 K and 13 T by advanced MOCVD
-        authors: M. Paidpilli, C. Goel, B. Sarangi, S. Chen, E. Galstyan, J. Jaroszynski, G. Bradford, D. Abraimov, V. Selvamanickam
+        authors: M. Paidpilli, C. Goel, B. Sarangi, <b>S. Chen</b>, E. Galstyan, J. Jaroszynski, G. Bradford, D. Abraimov, V. Selvamanickam
         conference: Superconductivity (2024)
         link: https://doi.org/10.1016/j.supcon.2023.100081
       - title: REBCO Insert Coils toward High-Field, Large-Bore Magnet for Quantum Physics Research
-        authors: Y. Li, S. Chen, Y. Yan, B. Berlinger, R. Matthiessen, Y. Zhai
+        authors: Y. Li, <b>S. Chen</b>, Y. Yan, B. Berlinger, R. Matthiessen, Y. Zhai
         conference: IEEE Trans. Appl. Supercond. (2024)
         link: https://doi.org/10.1109/TASC.2024.3350598
       - title: Reinforcement learning for real-time process control in high-temperature superconductor manufacturing
@@ -225,8 +229,12 @@ publications:
       - title: Magnetic Field Shielding System Based on Closed Superconducting Coil Groups and Magnetic Field Shielding Device
         authors: C. Gu, <b>S. Chen</b>, T. Qu, Z. Han
         link: https://patents.google.com/patent/US10015917B2
-        conference: US Patent (US10015917B2) / China Patent (CN104349653B)
-      - title: 	Based on the Magnetic Field Shielding System and Magnetic Shielding Device for Being Closed Superconducting Coil Group
+        conference: US Patent (US10015917B2)
+      - title: Magnetic Field Shielding System Based on Closed Superconducting Coil Groups and Magnetic Field Shielding Device
+        authors: C. Gu, <b>S. Chen</b>, T. Qu, Z. Han
+        link: https://patents.google.com/patent/CN104349654B/en
+        conference: China Patent (CN104349653B)
+      - title: Based on the Magnetic Field Shielding System and Magnetic Shielding Device for Being Closed Superconducting Coil Group
         authors: C. Gu, T. Qu, <b>S. Chen</b>, Z. Han
         link: https://patents.google.com/patent/CN104349654B/en
         conference: China Patent (CN104349654B)
