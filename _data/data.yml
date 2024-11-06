@@ -150,6 +150,10 @@ publications:
     intro: |
       Publications including journal papers, conference proceedings and patents.
     papers:
+      - title: Autoregressive distributed lag-based dynamic uniformity modeling and monitoring approaches for superconductor manufacturing
+        authors: S. Peng, M.Li, Y. Lin, Q. Feng, W. Fu, <b>S. Chen</b>, M. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
+        conference: Int. J. Comput. Integr. Manuf. (2024)
+        link: https://doi.org/10.1080/0951192X.2024.2406792
       - title: Current sharing in double-sided REBCO tapes
         authors: S. Xue, Y. Li, L. Zhu, B. Sarangi, J. Sai Sandra, J. Rong, N. Mai1, <b>S. Chen</b>, A. Chavda, U. Sambangi, J. Peram, P. Parthiban, V. Selvamanickam
         conference: Supercond. Sci. Technol. (2024)
@@ -247,6 +251,7 @@ skills:
       - name: Organization, Leadership and Collaboration
       - details: |
             - Organized ELEVATE interactive student sessions in 2020 and 2022 Applied Superconductivity Conference (ASC) conferences
+            - Board Member & Sponsorship Co-Chair for 2024 Applied Superconductivity Conference (ASC)
             - Led over twenty undergraduate / master / doctoral RAs in research activities
             - Collaborated with over six research groups in exploring control strategies
     
