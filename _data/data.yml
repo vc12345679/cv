@@ -150,6 +150,10 @@ publications:
     intro: |
       Publications including journal papers, conference proceedings and patents.
     papers:
+      - title: Correlations Between In-Line X-ray Diffraction Data and In-Field Critical Current of Long, 4-µm Thick Film REBCO Tapes Made by Advanced MOCVD
+        authors: C. Goel, M. Paidpilli, <b>S. Chen</b>, Y. Li, M. Oad, L. Zhu, G. Majkic, V. Selvamanickam
+        conference: IEEE Trans. Appl. Supercond. (2024)
+        link: https://doi.org/10.1109/TASC.2024.3503535
       - title: Autoregressive distributed lag-based dynamic uniformity modeling and monitoring approaches for superconductor manufacturing
         authors: S. Peng, M.Li, Y. Lin, Q. Feng, W. Fu, <b>S. Chen</b>, M. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
         conference: Int. J. Comput. Integr. Manuf. (2024)
