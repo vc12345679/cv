@@ -150,6 +150,14 @@ publications:
     intro: |
       Publications including journal papers, conference proceedings and patents.
     papers:
+      - title: Metal-Insulation REBCO Pancake Coil with Solder Surface Shunt: Testing and Modeling
+        authors: Y. Li, <b>S. Chen</b>, F. Dong, J. Dye, Y. Yan, C. Gao, Y. Zhai, D. Park
+        conference: IEEE Trans. Appl. Supercond. (2025)
+        link: https://doi.org/10.1109/TASC.2025.3530388
+      - title: On the Development of Compact HTS Coil Modules for Large Bore High Field Superconducting Magnets
+        authors: Y. Zhai, J. Menard, A. Yazdani, N. P. Ong, J. Barkas, B. Berlinger, P. Bunkowski, <b>S. Chen</b>, Y. Li, R. Matthiessen, J. Dye
+        conference: IEEE Trans. Appl. Supercond. (2025)
+        link: https://doi.org/10.1109/TASC.2025.3529419
       - title: Correlations Between In-Line X-ray Diffraction Data and In-Field Critical Current of Long, 4-µm Thick Film REBCO Tapes Made by Advanced MOCVD
         authors: C. Goel, M. Paidpilli, <b>S. Chen</b>, Y. Li, M. Oad, L. Zhu, G. Majkic, V. Selvamanickam
         conference: IEEE Trans. Appl. Supercond. (2024)
@@ -240,7 +248,7 @@ publications:
         conference: US Patent (US10015917B2)
       - title: Magnetic Field Shielding System Based on Closed Superconducting Coil Groups and Magnetic Field Shielding Device
         authors: C. Gu, <b>S. Chen</b>, T. Qu, Z. Han
-        link: https://patents.google.com/patent/CN104349654B/en
+        link: https://patents.google.com/patent/CN104349653B/en
         conference: China Patent (CN104349653B)
       - title: Based on the Magnetic Field Shielding System and Magnetic Shielding Device for Being Closed Superconducting Coil Group
         authors: C. Gu, T. Qu, <b>S. Chen</b>, Z. Han
