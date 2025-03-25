@@ -150,110 +150,160 @@ publications:
     intro: |
       Publications including journal papers, conference proceedings and patents.
     papers:
-      - title: Metal-Insulation REBCO Pancake Coil with Solder Surface Shunt - Testing and Modeling
+      - title: [31] Advancing Reel-to-Reel Inspection Techniques for Long HTS Conductors: Comparison and Innovations
+        authors: <b>S. Chen</b>, Y. Li, C. Goel, P. Bunkowski, J. Dye, L. Zhu, J. Rong, Y. Zhai, V. Selvamanickam
+        conference: IEEE Trans. Appl. Supercond. (2025)
+        link: https://doi.org/10.1109/TASC.2025.3548629 
+
+      - title: [30] On the Development of Compact HTS Coil Modules for Large Bore High Field Superconducting Magnets
+        authors: Y. Zhai, J. Menard, A. Yazdani, N. Ong, J. Barkas, B. Berlinger, P. Bunkowski, <b>S. Chen</b>, Y. Li, R. Matthiessen, J. Dye
+        conference: IEEE Trans. Appl. Supercond. (2025)
+        link: https://doi.org/10.1109/TASC.2025.3529419 
+
+      - title: [29] Current Sharing and Mechanical Properties of Slot-n-Fill REBCO Tapes
+        authors: S. Xue, L. Zhu, J. Rong, N. Mai, Y. Li, <b>S. Chen</b>, U. Sambangi, J. Peram, V. Selvamanickam
+        conference: IEEE Trans. Appl. Supercond. (2025)
+        link: https://doi.org/10.1109/TASC.2025.3547318 
+
+      - title: [28] Suppressing Screening-Current-Induced Strain in a 72-Mm-Bore REBCO Insert for a 20-T Magnet: A Numerical Study
+        authors: Y. Li, <b>S. Chen</b>, J. Dye, P. Bunkowski, B. Berlinger, R. Matthiessen, Y. Zhai
+        conference: IEEE Trans. Appl. Supercond. (2025)
+        link: https://doi.org/10.1109/TASC.2025.3539257 
+
+      - title: [27] Metal-Insulation REBCO Pancake Coil with Solder Surface Shunt: Testing and Modeling
         authors: Y. Li, <b>S. Chen</b>, F. Dong, J. Dye, Y. Yan, C. Gao, Y. Zhai, D. Park
         conference: IEEE Trans. Appl. Supercond. (2025)
-        link: https://doi.org/10.1109/TASC.2025.3530388
-      - title: On the Development of Compact HTS Coil Modules for Large Bore High Field Superconducting Magnets
-        authors: Y. Zhai, J. Menard, A. Yazdani, N. P. Ong, J. Barkas, B. Berlinger, P. Bunkowski, <b>S. Chen</b>, Y. Li, R. Matthiessen, J. Dye
-        conference: IEEE Trans. Appl. Supercond. (2025)
-        link: https://doi.org/10.1109/TASC.2025.3529419
-      - title: Correlations Between In-Line X-ray Diffraction Data and In-Field Critical Current of Long, 4-µm Thick Film REBCO Tapes Made by Advanced MOCVD
+        link: https://doi.org/10.1109/TASC.2025.3530388 
+
+      - title: [26] Correlations Between In-Line X-Ray Diffraction Data and In-Field Critical Current of Long, 4-$M$m-Thick Film REBCO Tapes Made by Advanced MOCVD
         authors: C. Goel, M. Paidpilli, <b>S. Chen</b>, Y. Li, M. Oad, L. Zhu, G. Majkic, V. Selvamanickam
-        conference: IEEE Trans. Appl. Supercond. (2024)
-        link: https://doi.org/10.1109/TASC.2024.3503535
-      - title: Autoregressive distributed lag-based dynamic uniformity modeling and monitoring approaches for superconductor manufacturing
-        authors: S. Peng, M.Li, Y. Lin, Q. Feng, W. Fu, <b>S. Chen</b>, M. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
-        conference: Int. J. Comput. Integr. Manuf. (2024)
-        link: https://doi.org/10.1080/0951192X.2024.2406792
-      - title: Current sharing in double-sided REBCO tapes
-        authors: S. Xue, Y. Li, L. Zhu, B. Sarangi, J. Sai Sandra, J. Rong, N. Mai1, <b>S. Chen</b>, A. Chavda, U. Sambangi, J. Peram, P. Parthiban, V. Selvamanickam
+        conference: IEEE Trans. Appl. Supercond. (2025)
+        link: https://doi.org/10.1109/TASC.2024.3503535 
+
+      - title: [25] Current Sharing in Double-Sided REBCO Tapes
+        authors: S. Xue, Y. Li, L. Zhu, B. Sarangi, J. Sandra, J. Rong, N. Mai, <b>S. Chen</b>, A. Chavda, U. Sambangi, J. Peram, P. Parthiban, V. Selvamanickam
         conference: Supercond. Sci. Technol. (2024)
-        link: https://doi.org/10.1088/1361-6668/ad4e76
-      - title: Quantile regression-enriched event modeling framework for dropout analysis in high-temperature superconductor manufacturing
-        authors: M.Li, Y. Lin, Q. Feng, W. Fu, S. Peng, <b>S. Chen</b>, M. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
-        conference: J. Intell. Manuf. (2024)
-        link: https://doi.org/10.1007/s10845-024-02358-7
-      - title: 40-meter-long REBCO tapes with critical current over 4,000 A/12 mm at 4.2 K and 13 T by advanced MOCVD
+        link: https://doi.org/10.1088/1361-6668/ad4e76 
+
+      - title: [24] A Novel Roughness-Based Metric for Uniformity Modeling and Monitoring in High-Temperature Superconductor Manufacturing
+        authors: Y. Xiang, K. Adhikari, Y. Lin, Q. Feng, <b>S. Chen</b>, M. Paidpilli, C. Goel, V. Selvamanickam
+        conference: IISE Annu. Conf. Proc (2024)
+        link: https://www.proquest.com/docview/3110759066
+
+      - title: [23] Autoregressive Distributed Lag-Based Dynamic Uniformity Modeling and Monitoring Approaches for Superconductor Manufacturing
+        authors: S. Peng, M. Li, Y. Lin, Q. Feng, W. Fu, <b>S. Chen</b>, M. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
+        conference: International Journal of Computer Integrated Manufacturing (2024)
+        link: https://doi.org/10.1080/0951192X.2024.2406792 
+
+      - title: [22] 40-Meter-Long REBCO Tapes with Critical Current over 4,000 A/12 Mm at 4.2 K and 13 T by Advanced MOCVD
         authors: M. Paidpilli, C. Goel, B. Sarangi, <b>S. Chen</b>, E. Galstyan, J. Jaroszynski, G. Bradford, D. Abraimov, V. Selvamanickam
         conference: Superconductivity (2024)
-        link: https://doi.org/10.1016/j.supcon.2023.100081
-      - title: REBCO Insert Coils toward High-Field, Large-Bore Magnet for Quantum Physics Research
+        link: https://doi.org/10.1016/j.supcon.2023.100081 
+
+      - title: [21] REBCO Insert Coils Toward High-Field, Large-Bore Magnet for Quantum Physics Research
         authors: Y. Li, <b>S. Chen</b>, Y. Yan, B. Berlinger, R. Matthiessen, Y. Zhai
         conference: IEEE Trans. Appl. Supercond. (2024)
-        link: https://doi.org/10.1109/TASC.2024.3350598
-      - title: Reinforcement learning for real-time process control in high-temperature superconductor manufacturing
-        authors: Q. Feng, S. Peng, Y. Lin, <b>S. Chen</b>, M. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
-        conference:  Int. J. Adv. Manuf. Technol. (2023)
-        link: https://doi.org/10.1007/s00170-023-12369-y
-      - title: High critical current STAR wires with REBCO tapes by advanced MOCVD
-        authors: E. Galstyan, J. Kadiyala, M. Paidpilli, C. Goel, J. Sai Sandra, V. Yerraguravagari, G. Majkic, R. Jain, <b>S. Chen</b>, Y. Li
-        conference: Supercond. Sci. Tech. (2023)
-        link: https://doi.org/10.1088/1361-6668/acc4ed
-      - title: Development of 50-meter RE-Ba-Cu-O Tapes with Critical Current Over 1750 A/12mm at 65 K, 0.25 T by Advanced-MOCVD
-        authors: M. Paidpili, C Goel, <b>S. Chen</b>, Y. Li, R. Jain, V. Shyam, M. Oad, V. Yerraguravagari, E. Galstyan, G. Majkic, R. M. Schimidt, C. M. Rey, T. H. Carnes and V. Selvamanickam
+        link: https://doi.org/10.1109/TASC.2024.3350598 
+
+      - title: [20] Quantile Regression-Enriched Event Modeling Framework for Dropout Analysis in High-Temperature Superconductor Manufacturing
+        authors: M. Li, Y. Lin, Q. Feng, W. Fu, S. Peng, <b>S. Chen</b>, M. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
+        conference: J Intell Manuf (2024)
+        link: https://doi.org/10.1007/s10845-024-02358-7 
+
+      - title: [19] GIFR: A Graph-Informed Functional Regression Model for Process-StructureProperty Relationships Discovery
+        authors: K. Adhikari, Y. Xiang, Y. Lin, Q. Feng, <b>S. Chen</b>, M. Paidpilli, C. Goel, V. Selvamanickam
+        conference: IISE Annu. Conf. Proc. (2024)
+        link: https://doi.org/10.21872/2024IISE_6596 
+
+      - title: [18] Development of 50-Meter RE-Ba-Cu-O Tapes with Critical Current Over 1750 A/12mm at 65 K, 0.25 T by Advanced-MOCVD
+        authors: M. Paidpilli, C. Goel, <b>S. Chen</b>, Y. Li, R. Jain, V. Shyam, M. Oad, V. Yerraguravagari, E. Galstyan, G. Majkic, R. Schmidt, C. Rey, T. Carnes, V. Selvamanickam
         conference: IEEE Trans. Appl. Supercond. (2023)
-        link: https://doi.org/10.1109/TASC.2023.3234882
-      - title: A Reel-to-Reel Scanning Hall Probe Microscope for Characterizing Long REBCO Conductor in Magnetic Fields Up to 5 Tesla
-        authors: Y. Li, <b>S. Chen</b>, M. Paidpilli, R. Jain, C. Goel and V. Selvamanickam
-        conference: IEEE Trans. Appl. Supercond. (2022)
-        link: https://doi.org/10.1109/TASC.2022.3140688
-      - title: Scale Up of High-Performance REBCO Tapes in a Pilot-Scale Advanced MOCVD Tool With In-Line 2D-XRD System
-        authors: <b>S. Chen</b> and M., Goran, R. Jain, R. Pratap, V. Mohan, C. Goel and V. Selvamanickam
-        conference: IEEE Trans. Appl. Supercond. (2021)
-        link: https://doi.org/10.1109/TASC.2021.3058868
-      - title: Reel-to-Reel Scanning Hall Probe Microscope Measurement on REBCO Tapes
-        authors: <b>S. Chen</b> and X. Li, W. Luo and V. Selvamanickam
-        conference: IEEE Trans. Appl. Supercond. (2019)
-        link: https://doi.org/10.1109/tasc.2019.2901989
-      - title: Inductance of Low-Frequency Small-Scale High-Temperature Superconducting Coils
-        authors: <b>S. Chen</b>, C. Gu, Y. Li, L. Lai, T. Qu, N. Hu, M. Song, S. Zou and Y. Yue
-        conference: IEEE Trans. Appl. Supercond. (2019)
-        link: https://doi.org/10.1109/TASC.2019.2897868
-      - title: Magnetization and Screening Current in an 800 MHz (18.8 T) REBCO Nuclear Magnetic Resonance Insert Magnet - Experimental Results and Numerical Analysis
-        authors: Y. Li, D. Park, Y. Yan, Y. Choi, J. Lee, P. C. Michael, <b>S. Chen</b>, T. Qu, J. Bascunan and Y. Iwasa
-        conference: Supercond. Sci. Technol. (2019)
-        link: https://doi.org/10.1088/1361-6668/ab3119
-      - title: Open Magnetic Shielding by Superconducting Technology
-        authors: C. Gu, L. Lai, <b>S. Chen</b>, T. Qu and Y. Yue
-        conference: IEEE Trans. Appl. Supercond. (2019)
-        link: https://doi.org/10.1109/TASC.2019.2901554
-      - title: Characterization of Ic Degradation in Bent YBCO Tapes
-        authors: L. Lai, C. Gu, Y. Yue, <b>S. Chen</b>, M. Song, N. Hu, T. Qu and S. Zou
-        conference: IEEE Trans. Appl. Supercond. (2019)
-        link: https://doi.org/10.1109/TASC.2019.2900354
-      - title: Observation and Analysis of Defects in Impregnated YBCO Racetrack Coil
-        authors: <b>S. Chen</b>, C. Gu, T. Qu, L. Lai, N. Hu and Y. Jiang
-        conference: IEEE Trans. Appl. Supercond. (2017)
-        link: https://doi.org/10.1109/TASC.2017.2662225
-      - title: Experimental Realization of Open Magnetic Shielding
-        authors: C. Gu, <b>S. Chen</b>, T. Pang and T. Qu
-        conference: Appl. Phys. Lett. (2017)
-        link: https://doi.org/10.1063/1.4983490
-      - title: Examination and Analysis of Critical Current Uniformity of Long HTS Tapes by the MCorder
-        authors: S. Zou, C. Gu, T. Qu, <b>S. Chen</b>, X. Li and Z. Han
-        conference: IEEE Trans. Appl. Supercond. (2015)
-        link: https://doi.org/10.1109/TASC.2014.2374418
-      - title: Dynamic Uniformity Modeling in Superconductor Manufacturing via Vector Autoregression Analysis
-        authors: S. Peng, M. Li, Y. Lin, Q. Feng, W. Fu, E. Galstyan, <b>S. Chen</b>, and R. Jain
+        link: https://doi.org/10.1109/TASC.2023.3234882 
+
+      - title: [17] High Critical Current STAR Wires with REBCO Tapes by Advanced MOCVD
+        authors: E. Galstyan, J. Kadiyala, M. Paidpilli, C. Goel, J. Sandra, V. Yerraguravagari, G. Majkic, R. Jain, <b>S. Chen</b>, Y. Li, R. Schmidt, J. Jaroszynski, G. Bradford, D. Abraimov, X. Chaud, J. Song, V. Selvamanickam
+        conference: Supercond. Sci. Technol. (2023)
+        link: https://doi.org/10.1088/1361-6668/acc4ed 
+
+      - title: [16] Reinforcement Learning for Real-Time Process Control in High-Temperature Superconductor Manufacturing
+        authors: Q. Feng, S. Peng, Y. Lin, <b>S. Chen</b>, M. Paidpilli, C. Goel, E. Galstyan, V. Selvamanickam
+        conference: Int J Adv Manuf Technol (2023)
+        link: https://doi.org/10.1007/s00170-023-12369-y 
+
+      - title: [15] Dynamic Uniformity Modeling in Superconductor Manufacturing via Vector Autoregression Analysis
+        authors: S. Peng, M. Li, Y. Lin, Q. Feng, W. Fu, E. Galstyan, <b>S. Chen</b>, R. Jain
+        conference: IISE Annu. Conf. Proc (2022)
         link: https://www.proquest.com/openview/0fed6a6f7bb26cfc2715cf69d5edec4b/1?pq-origsite=gscholar&cbl=51908
-        conference: IIE Annual Conference. Proceedings; Norcross (2022)
-      - title: A Spatial Point Process-based Approach for Dropout Events Modeling in High-Temperature Superconductor Manufacturing
-        authors: M. Li, S. Peng, Y. Lin, Q. Feng, W. Fu, E. Galstyan, <b>S. Chen</b>, and R. Jain
+
+      - title: [14] A Spatial Point Process-Based Approach for Dropout Events Modeling in HighTemperature Superconductor Manufacturing
+        authors: M. Li, S. Peng, Y. Lin, Q. Feng, W. Fu, E. Galstyan, <b>S. Chen</b>, R. Jain
+        conference: IISE Annu. Conf. Proc (2022)
         link: https://www.proquest.com/openview/a86b214dd3da9ee1039810fda655b998/1?pq-origsite=gscholar&cbl=51908
-        conference: IIE Annual Conference. Proceedings; Norcross (2022)
-      - title: Magnetic Field Shielding System Based on Closed Superconducting Coil Groups and Magnetic Field Shielding Device
+
+      - title: [13] A Reel-to-Reel Scanning Hall Probe Microscope for Characterizing Long REBCO Conductor in Magnetic Fields Up to 5 Tesla
+        authors: Y. Li, <b>S. Chen</b>, M. Paidpilli, R. Jain, C. Goel, V. Selvamanickam
+        conference: IEEE Trans. Appl. Supercond. (2022)
+        link: https://doi.org/10.1109/TASC.2022.3140688 
+
+      - title: [12] Scale Up of High-Performance REBCO Tapes in a Pilot-Scale Advanced MOCVD Tool With In-Line 2D-XRD System
+        authors: <b>S. Chen</b>, G. Majkic, R. Jain, R. Pratap, V. Mohan, C. Goel, V. Selvamanickam
+        conference: IEEE Trans. Appl. Supercond. (2021)
+        link: https://doi.org/10.1109/TASC.2021.3058868 
+
+      - title: [11] Magnetization and Screening Current in an 800 MHz (18.8 T) REBCO Nuclear Magnetic Resonance Insert Magnet: Experimental Results and Numerical Analysis
+        authors: Y. Li, D. Park, Y. Yan, Y. Choi, J. Lee, P. Michael, <b>S. Chen</b>, T. Qu, J. Bascunan, Y. Iwasa
+        conference: Supercond. Sci. Technol. (2019)
+        link: https://doi.org/10.1088/1361-6668/ab3119 
+
+      - title: [10] Characterization of Ic Degradation in Bent YBCO Tapes
+        authors: L. Lai, C. Gu, Y. Yue, <b>S. Chen</b>, M. Song, N. Hu, T. Qu, S. Zou
+        conference: IEEE Trans. Appl. Supercond. (2019)
+        link: https://doi.org/10.1109/TASC.2019.2900354 
+
+      - title: [9] Open Magnetic Shielding by Superconducting Technology
+        authors: C. Gu, L. Lai, <b>S. Chen</b>, T. Qu, Y. Yue
+        conference: IEEE Trans. Appl. Supercond. (2019)
+        link: https://doi.org/10.1109/TASC.2019.2901554 
+
+      - title: [8] Reel-to-Reel Scanning Hall Probe Microscope Measurement on REBCO Tapes
+        authors: <b>S. Chen</b>, X. Li, W. Luo, V. Selvamanickam
+        conference: IEEE Trans. Appl. Supercond. (2019)
+        link: https://doi.org/10.1109/tasc.2019.2901989 
+
+      - title: [7] Inductance of Low-Frequency Small-Scale High-Temperature Superconducting Coils
+        authors: <b>S. Chen</b>, C. Gu, Y. Li, L. Lai, T. Qu, N. Hu, M. Song, S. Zou, Y. Yue
+        conference: IEEE Trans. Appl. Supercond. (2019)
+        link: https://doi.org/10.1109/TASC.2019.2897868 
+
+      - title: [6] Magnetic Field Shielding System Based on Closed Superconducting Coil Groups and Magnetic Field Shielding Device
         authors: C. Gu, <b>S. Chen</b>, T. Qu, Z. Han
+        conference: Patent US10015917B2 (2018)
+
+      - title: [5] Magnetic Field Shielding System and Magnetic Shielding Device Based on Closure Superconducting Coil Group
+        authors: C. Gu, <b>S. Chen</b>, T. Qu, Z. Han
+        conference: Patent CN104349653B (2018)
         link: https://patents.google.com/patent/US10015917B2
-        conference: US Patent (US10015917B2)
-      - title: Magnetic Field Shielding System Based on Closed Superconducting Coil Groups and Magnetic Field Shielding Device
-        authors: C. Gu, <b>S. Chen</b>, T. Qu, Z. Han
         link: https://patents.google.com/patent/CN104349653B/en
-        conference: China Patent (CN104349653B)
-      - title: Based on the Magnetic Field Shielding System and Magnetic Shielding Device for Being Closed Superconducting Coil Group
+
+      - title: [4] Based on the Magnetic Field Shielding System and Magnetic Shielding Device for Being Closed Superconducting Coil Group
         authors: C. Gu, T. Qu, <b>S. Chen</b>, Z. Han
+        conference: Patent CN104349654B (2018)
         link: https://patents.google.com/patent/CN104349654B/en
-        conference: China Patent (CN104349654B)
+
+      - title: [3] Experimental Realization of Open Magnetic Shielding
+        authors: C. Gu, <b>S. Chen</b>, T. Pang, T. Qu
+        conference: Appl. Phys. Lett. (2017)
+        link: https://doi.org/10.1063/1.4983490 
+
+      - title: [2] Observation and Analysis of Defects in Impregnated YBCO Racetrack Coil
+        authors: <b>S. Chen</b>, C. Gu, T. Qu, L. Lai, N. Hu, Y. Jiang
+        conference: IEEE Trans. Appl. Supercond. (2017)
+        link: https://doi.org/10.1109/TASC.2017.2662225 
+
+      - title: [1] Examination and Analysis of Critical Current Uniformity of Long HTS Tapes by the MCorder
+        authors: S. Zou, C. Gu, T. Qu, <b>S. Chen</b>, X. Li, Z. Han
+        conference: IEEE Trans. Appl. Supercond. (2015)
+        link: https://doi.org/10.1109/TASC.2014.2374418 
 
 
 skills:
