@@ -161,7 +161,23 @@ projects2:
             - Simulated the current distributions in HTS coils with various dimensions by finite element method (utilizing ANSYS)
             - Designed and implemented an automated platform for measuring dynamic eletromagnetic properties, including inductance and AC loss, of HTS conductors
             - Discovered and verified the nonlinear behavior of the inductance in HTS coils and revised the inductive voltage and stored energy
-
+honors:
+    title: Mentoring
+    details:
+      - name: Robert Kapinos, Engineering Internship (PPPL)
+        year: 2025
+      - name: John Cruz, Engineering Apprenticeship (PPPL)
+        year: 2025
+      - name: Michael Alusik, Engineering Apprenticeship (PPPL)
+        year: 2024
+      - name: Piotr Bunkowski, B.E. Mechanical Engineering (PPPL SULI '23 / TCNJ '24)
+        year: 2023 - 2024
+      - name: Maxanthony Mateer, B.E. Mechanical Engineering (PPPL SULI '23 / Georgia Tech '25)
+        year: Summer 2023
+      - name: Nathan Touchet, B.E. Electrical and Electronics Engineering (Univ of Houston '25)
+        year: 2021 - 2022
+      - name: Naman Mehndiratta, High School Senior / Research Intern (TAMS at UNT '21)
+        year: 2021
 publications:
     title: Publications
     intro: |
