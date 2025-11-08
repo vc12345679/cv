@@ -54,6 +54,8 @@ career-profile:
       * Managing pilot-scale film deposition processes, such as MOCVD and IBAD
       
       I take pride in staying up-to-date with the latest advancements in the HTS field, and I have a proven track record of delivering results within strict deadlines. My experience and skills make me a valuable asset to any organization looking to achieve excellence in the HTS domain.
+
+      My research vision is to create "smart" superconducting conductors by integrating advanced characterization, real-time diagnostics, and intelligent design. By developing autonomous, AI-driven manufacturing processes, I aim to transform HTS from a specialty material into a reliable industrial commodity, accelerating the timeline for fusion energy and other transformative high-field technologies.
       
 education:
     title: Education
@@ -63,7 +65,7 @@ education:
         time: 2022
         details: |
           - Advisor: Dr. Venkat Selvamanickam
-      - degree: B.Sc. Mathematics \& Physics
+      - degree: B.Sc. Mathematics & Physics
         university: Tsinghua University, Beijing, China
         time: 2012
         details: |
