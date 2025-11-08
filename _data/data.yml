@@ -61,12 +61,12 @@ education:
     info:
       - degree: Ph.D. Mechanical Engineering
         university: University of Houston, Houston, Texas
-        time: 2022
+        time: 2017 - 2022
         details: |
           - Advisor: Dr. Venkat Selvamanickam
       - degree: B.Sc. Mathematics & Physics
         university: Tsinghua University, Beijing, China
-        time: 2012
+        time: 2008 - 2012
         details: |
           - Advisor: Dr. Zhenghe Han
 experiences:
@@ -329,49 +329,25 @@ publications:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical Skills
     toolset:
-    
-      - name: Organization, Leadership and Collaboration
-      - details: |
-            - Organized ELEVATE interactive student sessions in 2020 and 2022 Applied Superconductivity Conference (ASC) conferences
-            - Led over twenty undergraduate / master / doctoral RAs in research activities
-            - Collaborated with over six research groups in exploring control strategies
-    
-      - name: Automation and Control
-      - details: |
-          - PLC / microcontrollers / hardware & software embedded development
-      
-      - name: Programming
-      - details: |
-          - Statistical and machine learning-based data analysis
-          - Python / C++ / C# / Matlab / Julia / Mathematica
-      
-      - name: FEM Simulation
-      - details: |
-          - Electromagnetic / mechanical / thermal / general analysis
-          - Comsol / ANSYS / Python / Julia / in-house code
-      
-      - name: Mechanical Design
-      - details: |
-          - CAD (Solidworks / Inventor / FreeCAD)
-      
-      - name: Mechaning
-      - details: |
-          - Drilling / Milling / Lathe / CNC / 3D printing
-      
-      - name: Electrial and Electronic Design
-      - details: |
-          - Digital and analog circuit (KiCAD)
-      
-      - name: Database
-      - details: |
-          - Relational database (MySQL / MariaDB / SQLite)
-          - Time-series database (InfluxDB)
-      
-      - name: Web Application Development
-      - details: |
-          - HTML5 / CSS3 / PHP / Javascript / Python-Flask
+
+      - name: Computational & Software
+        details: |
+          - **Programming:** Python, C++, C#, Julia, Matlab, Mathematica
+          - **Data & Analysis:** Statistical and machine learning, SQL (MySQL, MariaDB, SQLite, PostgreSQL), Time-series (InfluxDB, QuestDB)
+          - **Web Development:** Python-Flask, HTML5, CSS3, Javascript, PHP
+
+      - name: Simulation & Modeling
+        details: |
+          - **Domains:** Electromagnetic, mechanical, thermal, and general FEM analysis
+          - **Tools:** COMSOL, ANSYS, Python, Julia, in-house code
+
+      - name: Hardware & Fabrication
+        details: |
+          - **Design:** Mechanical CAD (Solidworks, Inventor, FreeCAD), Electrical & Electronic (KiCAD)
+          - **Fabrication:** Machining (CNC, Milling, Lathe, Drilling), 3D Printing
+          - **Automation:** PLC, microcontrollers, embedded hardware & software development
         
 honors:
     title: Honors &amp; Awards
