@@ -47,7 +47,10 @@ sidebar:
 career-profile:
     title: Greetings
     summary: |
-      Welcome. I am a Strategic Science Initiative Postdoc at the Princeton Plasma Physics Laboratory and an Associate Research Physicist at the Princeton University developing the enabling technologies for next-generation fusion magnets. My research program integrates advanced manufacturing, diagnostics, and AI to create reliable, high-performance high-temperature superconductors (HTS) at an industrial scale.
+      Welcome. I am a Strategic Science Initiative Postdoc at the Princeton Plasma Physics Laboratory and an Associate Research Physicist at the Princeton University developing the enabling technologies for next-generation fusion magnets. 
+      
+      My research program integrates advanced manufacturing, diagnostics, and AI to create reliable, high-performance high-temperature superconductors (HTS) at an industrial scale.
+      
       My work is focused on three primary thrusts:
         - AI-Driven "Smart" Manufacturing: Pioneering the use of in-line diagnostics (e.g., 2D-XRD) and machine learning models to create a fully autonomous, closed-loop HTS manufacturing process. This "paradigm shift" aims to prevent defects in real-time rather than only inspecting for them post-production.
         - Next-Generation Characterization: Designing and building first-of-their-kind, reel-to-reel inspection platforms to qualify long-length conductors under the extreme conditions of a fusion magnet (e.g., 20 K and fields >15 T).
