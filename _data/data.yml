@@ -50,58 +50,60 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Ph.D. in Mechanical Engineering
+      - degree: Ph.D. Mechanical Engineering
         university: University of Houston, Houston, Texas
-        time: 2017 - 2022
+        time: 2022
         details: |
-          - Advisor: Dr. Venkat Selvamanickam (former SuperPower CTO)
-          - Reel-to-reel Characterization towards Feedback Control in Manufacturing Long REBCO High-Temperature Superconducting Tapes
-      - degree: B.Sc. in Mathematics and Physics
+          - Advisor: Dr. Venkat Selvamanickam
+      - degree: B.Sc. Mathematics and Physics
         university: Tsinghua University, Beijing, China
-        time: 2008 - 2012
+        time: 2012
         details: |
-          - Advisor: Dr. Zhenghe Han (former Innova Superconductor CEO)
-          - Studied the fundamental mathematics and physics as well as embedded development as a hobby.
-          Capstone project: Inductance of superconducting coils
+          - Advisor: Dr. Zhenghe Han
 experiences:
     title: Work Experiences
     info:
-      - role: Strategic Science Initiative Postdoc
+      - role: Strategic Science Initiative Postdoc / Associate Research Physicist
         time: 2023 - Present
         company: <a target="_blank" href="https://www.pppl.gov/">Princeton Plasma Physics Laboratory</a> / <a target="_blank" href="https://www.princeton.edu/">Princeton University</a>, Princeton, New Jersey
         details: |
-          Develop superconducting magnet technologies for reduced-cost fusion next step devices; also support the PPPL magnet program in the development of magnet user facilities for basic research.
-      - role: Research Assistant
+          - Engineer advanced superconducting magnet technologies, designing and validating novel components to reduce projected costs for next-generation fusion energy devices.
+          - Spearhead key aspects of the PPPL magnet program, developing new magnet user facilities to expand basic research capabilities for internal and external researchers.
+          - Model, fabricate, and test high-temperature superconducting (HTS) magnet prototypes, analyzing performance data to iterate on designs for improved stability and efficiency.
+      - role: Graduate Research Assistant
         time: 2017 - 2022
         company: <a target="_blank" href="https://selva.me.uh.edu/">University of Houston, Houston, Texas</a>
         details: |
-          Besides academic research, also supported other projects in the group as a full-stack engineer on: Mechanical design and machining; Electrical design and wiring; Electronic design and circuit making; Automation and programming; Data acquisition and post-processing
+          - Functioned as a "full-stack" R&D engineer, accelerating projects by providing end-to-end technical solutions from concept to data analysis.
+          - Engineered and fabricated custom research apparatus, encompassing mechanical design (CAD/CAM) and machining, electrical systems integration, and power electronics.
+          - Developed and implemented robust data acquisition (DAQ) and automation systems using Specify software, e.g., LabVIEW, Python, enabling hundreds of hours of unattended operation and increasing data throughput.
+          - Designed, built, and tested custom PCBs and electronic circuits for specialized measurement and control applications, resolving critical experimental bottlenecks.
       - role: R&D Manager
         time: 2015 - 2016
         company: <a target="_blank" href="http://eastfs.com/">Eastforce Superconducting Technology Co., Ltd., Beijing, China</a>
         details: |
-          As the first employee of a startup company, led the development and commercialization of various superconductor characterization tools and superconducting applications
+          - Joined at the founding stage, leading the full-cycle R&D and commercialization pipeline for novel superconductor characterization tools.
+          - Orchestrated the complete product lifecycle from initial concept, prototyping, and patent strategy to market-ready applications, resulting in the company's first five product launches.
+          - Built and managed the initial R&D infrastructure, establishing all lab-based operations, vendor relationships, and quality control protocols from the ground up.
       - role: Research Assistant
         time: 2014 - 2014
         company: <a target="_blank" href="https://www.tsinghua.edu.cn/">Tsinghua University, Beijing, China</a>
         details: |
-          Conducted research on superconductor characterization techniques and superconducting applications
-            - Implemented a reel-to-reel 77K self-field critical current measurement technique for long HTS tapes
-            - Invented and realized a passive open magnetic field shielding technique in form of superconducting coil groups (PCT/CN/US patent granted)
+          - Invented and operationalized a novel passive magnetic shielding technique using superconducting coil groups (Patent Granted: US10015917B2, CN104349653B, CN104349654B).
+          - Engineered and implemented a reel-to-reel, 77K self-field critical current measurement system for high-throughput characterization of long HTS tapes.
+          - Published six peer-reviewed articles on findings in superconductor characterization and applications.
       - role: Technical Consultant
         time: 2012 - 2013
         company: <a target="_blank" href="http://www.innost.com/">Innova Superconductor Technology Co., Ltd., Beijing, China</a>
         details: |
-          In charge of automation in the 1st generation HTS tape (BSCCO/Bi-2223) production line
-            - Process control and monitoring during heat treatment
-            - Reel-to-reel tape thickness and width monitoring
+          - Engineered and deployed automation and process control systems for the 1st generation HTS (BSCCO/Bi-2223) tape production line.
+          - Implemented real-time monitoring solutions for heat treatment processes and reel-to-reel tape geometry, improving production yield by [Add %] and enhancing quality control.
       - role: Internship
         time: 2011 - 2012
         company: Intel Labs China, Beijing, China
         details: |
-          Assisted in embedded development on
-            - Wireless display transmission (WiDi) in collaboration with Lenovo
-            - Cross-device process migration on ARM platforms in collaboration with Nokia
+          - Engineered and optimized embedded software for real-time wireless display (WiDi) protocols, resolving system-level bottlenecks to enhance transmission stability.
+          - Investigated and characterized novel process migration schemes for multi-core ARM platforms, contributing to foundational research on mobile distributed computing.
 projects2:
     title: Research Projects
     info:
@@ -150,6 +152,11 @@ publications:
     intro: |
       Publications including journal papers, conference proceedings and patents.
     papers:
+      - title: "[32] Challenges in Continuous In-Field Critical Current Testing of High-Temperature Superconducting Tapes: Thermal and Mechanical Perspectives"
+        authors: <b>S. Chen</b>, G. Bradford, P. Bunkowski, R. Kapinos, J. Cruz, Y. Zhai
+        conference: IEEE Trans. Appl. Supercond. (2025)
+        link: https://doi.org/10.1109/TASC.2025.3628597
+        
       - title: "[31] Advancing Reel-to-Reel Inspection Techniques for Long HTS Conductors: Comparison and Innovations"
         authors: <b>S. Chen</b>, Y. Li, C. Goel, P. Bunkowski, J. Dye, L. Zhu, J. Rong, Y. Zhai, V. Selvamanickam
         conference: IEEE Trans. Appl. Supercond. (2025)
@@ -358,7 +365,7 @@ honors:
       - name: IEEE Transactions on Applied Superconductivity Distinguished Reviewer Award
         year: 2025
     
-      - name: International Workshop on Coated Conductors for Applications 2023 Poster Prize <p>(2nd Prize)</p>
+      - name: International Workshop on Coated Conductors for Applications 2023 Best Poster Prize
         year: 2023
     
       - name: International Symposium on Superconductivity 2021 Encouragement Award <p>(Best Oral Presentation)</p>
@@ -380,8 +387,10 @@ honors:
         year: 2016
     
 appointments:
-    title: Appointments
+    title: Services
     details:
+      - name: Reviewing for Superconductivity, SUST, IEEE-TAS, IEEE-TIE, JAEM, EPJ, JMIR Medical Informatics
+      - name: <a href="https://www.appliedsuperconductivity.org/asc2026/program-committee/"> Applied Superconductivity Conference 2026 - Material Program Committee Member</a>
       - name: <a href="https://www.appliedsuperconductivity.org/asc2024/board-committee/"> Applied Superconductivity Conference 2024, Salt Lake City, UT, Sep 2024 - Board Member； Sponsorship Co-Chair; Material Program Committee Member</a>
       - name: <a href="https://gss.pppl.gov/2023/">Princeton Plasma Physics Laboratory Graduate Summer School, Princeton, NJ, Aug, 2023 - Instructor</a>
       - name: <a href="https://cca2023.me.uh.edu/committee/" target="_blank"> Coated Conductor for Applications Workshop, Houston, TX, Apr 2023 - Program Committee Member.
