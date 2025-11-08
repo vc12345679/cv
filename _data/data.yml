@@ -33,15 +33,10 @@ sidebar:
       title: Collaboration Interests
       info:
         - item: Partnering at the intersection of materials science, advanced manufacturing, and energy systems.
-          link:
         - item: Collaborating with HTS manufacturers (to improve yield) and fusion technology companies (for quality control).
-          link:
         - item: Leveraging deep connections with the DOE national lab network (PPPL, ORNL, FNAL) for magnet testing and R&D.
-          link:
         - item: Seeking academic partnerships in materials science, data science, and mechanical engineering.
-          link:
         - item: <ul class="list-unstyled contact-list"><li class="print"><i class="fas fa-print fa-2xl"></i><a href="javascript:if(window.print)window.print()"> Print a PDF copy</a></li></ul>
-          link:
           
 
 career-profile:
@@ -70,73 +65,50 @@ education:
         details: |
           - Advisor: Dr. Zhenghe Han
 experiences:
-    title: Work Experiences
-    info:
-      - role: Strategic Science Initiative Postdoc / Associate Research Physicist
-        time: 2023 - Present
-        company: <a target="_blank" href="https://www.pppl.gov/">Princeton Plasma Physics Laboratory</a> / <a target="_blank" href="https://www.princeton.edu/">Princeton University</a>, Princeton, New Jersey
-        details: |
-          - Engineer advanced superconducting magnet technologies, designing and validating novel components to reduce projected costs for next-generation fusion energy devices.
-          - Spearhead key aspects of the PPPL magnet program, developing new magnet user facilities to expand basic research capabilities for internal and external researchers.
-          - Model, fabricate, and test high-temperature superconducting (HTS) magnet prototypes, analyzing performance data to iterate on designs for improved stability and efficiency.
-      - role: Graduate Research Assistant
-        time: 2017 - 2022
-        company: <a target="_blank" href="https://selva.me.uh.edu/">University of Houston, Houston, Texas</a>
-        details: |
-          - Functioned as a "full-stack" R&D engineer, accelerating projects by providing end-to-end technical solutions from concept to data analysis.
-          - Engineered and fabricated custom research apparatus, encompassing mechanical design (CAD/CAM) and machining, electrical systems integration, and power electronics.
-          - Developed and implemented robust data acquisition (DAQ) and automation systems using Specify software, e.g., LabVIEW, Python, enabling hundreds of hours of unattended operation and increasing data throughput.
-          - Designed, built, and tested custom PCBs and electronic circuits for specialized measurement and control applications, resolving critical experimental bottlenecks.
-      - role: R&D Manager
-        time: 2015 - 2016
-        company: <a target="_blank" href="http://eastfs.com/">Eastforce Superconducting Technology Co., Ltd., Beijing, China</a>
-        details: |
-          - Joined at the founding stage, leading the full-cycle R&D and commercialization pipeline for novel superconductor characterization tools.
-          - Orchestrated the complete product lifecycle from initial concept, prototyping, and patent strategy to market-ready applications, resulting in the company's first five product launches.
-          - Built and managed the initial R&D infrastructure, establishing all lab-based operations, vendor relationships, and quality control protocols from the ground up.
-      - role: Research Assistant
-        time: 2014 - 2014
-        company: <a target="_blank" href="https://www.tsinghua.edu.cn/">Tsinghua University, Beijing, China</a>
-        details: |
-          - Invented and operationalized a novel passive magnetic shielding technique using superconducting coil groups (Patent Granted: US10015917B2, CN104349653B, CN104349654B).
-          - Engineered and implemented a reel-to-reel, 77K self-field critical current measurement system for high-throughput characterization of long HTS tapes.
-          - Published six peer-reviewed articles on findings in superconductor characterization and applications.
-      - role: Technical Consultant
-        time: 2012 - 2013
-        company: <a target="_blank" href="http://www.innost.com/">Innova Superconductor Technology Co., Ltd., Beijing, China</a>
-        details: |
-          - Engineered and deployed automation and process control systems for the 1st generation HTS (BSCCO/Bi-2223) tape production line.
-          - Implemented real-time monitoring solutions for heat treatment processes and reel-to-reel tape geometry, improving production yield by [Add %] and enhancing quality control.
-      - role: Internship
-        time: 2011 - 2012
-        company: Intel Labs China, Beijing, China
-        details: |
-          - Engineered and optimized embedded software for real-time wireless display (WiDi) protocols, resolving system-level bottlenecks to enhance transmission stability.
-          - Investigated and characterized novel process migration schemes for multi-core ARM platforms, contributing to foundational research on mobile distributed computing.
+  title: Work Experiences
+  info:
+    - role: Strategic Science Initiative Postdoc / Associate Research Physicist
+      time: 2023 - Present
+      company: <a target="_blank" href="https://www.pppl.gov/">Princeton Plasma Physics Laboratory</a> / <a target="_blank" href="https://www.princeton.edu/">Princeton University</a>, Princeton, New Jersey
+      details: |
+        - Spearhead key aspects of the PPPL magnet program, developing new magnet user facilities to expand basic research capabilities for internal and external researchers.
+        - Engineer advanced superconducting magnet technologies, modeling, fabricating and validating high-temperature superconducting (HTS) magnet prototypes, analyzing performance data to iterate on designs for improved stability and efficiency.
+        - Develop continuous HTS inspection technologies under practical fusion application conditions (e.g., 20K 7.5T), establishing a quality assurance framework for next-generation fusion energy devices.
+    - role: Graduate Research Assistant
+      time: 2017 - 2022
+      company: <a target="_blank" href="https://selva.me.uh.edu/">University of Houston, Houston, Texas</a>
+      details: |
+        - Provided end-to-end technical solutions for complex research projects, accelerating development by managing the full cycle from concept to implementation and iteration.
+        - Engineered and fabricated custom research apparatus, encompassing mechanical design (CAD/CAM) and machining, electrical systems integration, and power electronics.
+        - Developed and implemented robust data acquisition (DAQ) and automation systems using LabVIEW, Python, and custom PCBs/electronic circuits, resolving critical experimental bottlenecks, enabling hundreds of hours of unattended operation, and increasing data throughput.
+    - role: R&D Manager
+      time: 2015 - 2016
+      company: <a target="_blank" href="http://eastfs.com/">Eastforce Superconducting Technology Co., Ltd., Beijing, China</a>
+      details: |
+        - Led the full-cycle R&D and commercialization pipeline as a founding-stage team member at a high-tech startup.
+        - Built and managed the initial R&D infrastructure from the ground up, establishing all lab-based operations, vendor relationships, and quality control protocols.
+        - Orchestrated the complete product lifecycle for novel superconductor characterization tools, from initial concept, prototyping, and patent strategy to market-ready applications, resulting in the company's first five product launches.
+    - role: Research Assistant
+      time: 2014 - 2014
+      company: <a target="_blank" href="https://www.tsinghua.edu.cn/">Tsinghua University, Beijing, China</a>
+      details: |
+        - Invented and operationalized a novel passive magnetic shielding technique using superconducting coil groups (Patents Granted: US10015917B2, CN104349653B, CN104349654B).
+        - Engineered and implemented a reel-to-reel, 77K self-field critical current measurement system for high-throughput characterization of long HTS tapes.
+    - role: Technical Consultant
+      time: 2012 - 2013
+      company: <a target="_blank" href="http://www.innost.com/">Innova Superconductor Technology Co., Ltd., Beijing, China</a>
+      details: |
+        - Engineered and deployed automation and process control systems for the 1st generation HTS (BSCCO/Bi-2223) tape production line.
+        - Implemented real-time monitoring solutions for heat treatment processes and the conductors' geometric uniformity, enhancing quality control and improving production yield.
+    - role: Internship
+      time: 2011 - 2012
+      company: Intel Labs China, Beijing, China
+      details: |
+        - Engineered and optimized embedded software for real-time wireless display (WiDi) protocols, resolving system-level bottlenecks to enhance transmission stability.
+        - Investigated and characterized novel process migration schemes for multi-core ARM platforms, contributing to foundational research on mobile distributed computing.
 projects2:
     title: Research Projects
     info:
-      - title: Pilot-Scale Advanced MOCVD System for Manufacturing Long REBCO Tapes
-        details: |
-          This research helped move HTS manufacturing from a bespoke lab-scale process toward a scalable, industrial reality, demonstrating a viable path to producing the kilometer-lengths of wire needed for a fusion reactor.
-            - To prove the extendability of the world-record performance in short REBCO samples to production scale
-            - Fully designed and implemented the electronic circuit, the electrical wiring, the control strategy and the program framework of the system
-            - Partially designed the mechanical structures and fully assembled the hardwares
-            - Successfully manufactured over 50m uniform high-performance single tape
-            - Reused the developed software framework to support another two MOCVD systems
-          
-          [[image]](assets/images/mocvd.jpg)
-      - title: Reel-to-Reel Self-Field/In-Field Critical Current Density Mapping Tool for Long REBCO Tapes Under Down to 20K
-        details: |
-          This innovation provided the entire field, for the first time, with the ability to qualify conductors under application-relevant conditions. By creating a trusted "gold standard" for quality assurance, this work builds the industrial and regulatory confidence required to invest in large-scale HTS magnets.
-            - To routinely examine the quality of the produced long REBCO tapes by extracting their 2D performance distributions
-            - Designed and developed a reel-to-reel motion system enabling the REBCO tapes going between room environment and 65K vacuum
-            - Implemented a reciprocal Hall probe scanner and a rotary Hall probe scanner under low temperature
-            - Successfully measured the 77K/65K critical current density profile of long REBCO tapes with external magnetic field in range 0-5T
-            - **Stay tuned:** A 20K, 7.5T version is under active development and will be tested soon
-          
-          [[image1]](assets/images/5t.png)
-          [[image2]](assets/images/5t1.png)
       - title: Inline Quality Check by 2D X-ray Diffraction in an Advanced MOCVD System
         details: |          
           This breakthrough represents a paradigm shift from simply *finding* defects to *preventing* them, establishing the feasibility of AI-driven, closed-loop feedback. This is the critical first step toward an intelligent manufacturing process that can maximize yield and dramatically lower the cost of fusion-grade conductors.
@@ -148,6 +120,26 @@ projects2:
           
           [[image]](assets/images/xrd1.png)
           [[animation]](assets/images/xrd.gif)
+      - title: Reel-to-Reel Self-Field/In-Field Critical Current Density Mapping Tool for Long REBCO Tapes Under Down to 20K
+        details: |
+          This innovation provided the entire field, for the first time, with the ability to qualify conductors under application-relevant conditions. By creating a trusted "gold standard" for quality assurance, this work builds the industrial and regulatory confidence required to invest in large-scale HTS magnets.
+            - To routinely examine the quality of the produced long REBCO tapes by extracting their 2D performance distributions
+            - Designed and developed a reel-to-reel motion system enabling the REBCO tapes going between room environment and 65K vacuum
+            - Implemented a reciprocal Hall probe scanner and a rotary Hall probe scanner under low temperature
+            - Successfully measured the 77K/65K critical current density profile of long REBCO tapes with external magnetic field in range 0-5T
+            - **Stay tuned:** A 20K, 7.5T version is under active development and will be tested soon
+          
+          [[image1]](assets/images/5t.png)
+          [[image2]](assets/images/5t1.png)
+      - title: Pilot-Scale Advanced MOCVD System for Manufacturing Long REBCO Tapes
+        details: |
+          This research helped move HTS manufacturing from a bespoke lab-scale process toward a scalable, industrial reality, demonstrating a viable path to producing the kilometer-lengths of wire needed for large-scale applications.
+            - To prove the extendability of the world-record performance in short REBCO samples to production scale
+            - Fully designed and implemented the pilot-scale Advanced MOCVD system
+            - Successfully manufactured over 50m uniform high-performance single tape
+            - Extended the developed MOCVD systems for double-side conductor development and conductive substrate development
+          
+          [[image]](assets/images/mocvd.jpg)
       - title: Electromechanical Properties of REBCO Tapes
         details: |
           This work provides the essential, foundational "engineering rulebook" for HTS. Magnet designers now use this data to build robust, reliable coils that can withstand the immense operational stresses of a fusion environment, directly improving the safety and viability of future reactor designs.
@@ -161,7 +153,7 @@ projects2:
             - Simulated the current distributions in HTS coils with various dimensions by finite element method (utilizing ANSYS)
             - Designed and implemented an automated platform for measuring dynamic eletromagnetic properties, including inductance and AC loss, of HTS conductors
             - Discovered and verified the nonlinear behavior of the inductance in HTS coils and revised the inductive voltage and stored energy
-honors:
+mentoring:
     title: Mentoring
     details:
       - name: Robert Kapinos, Engineering Internship (PPPL)
