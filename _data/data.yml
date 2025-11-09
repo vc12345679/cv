@@ -119,6 +119,7 @@ projects2:
           
           <img alt="[2D-XRD Continuous Setup]" src="assets/images/xrd1.png" width="45%">
           <img alt="[2D-XRD Continuous Scan]" src="assets/images/xrd.gif" width="45%">
+          <img alt="[2D-XRD Ic Prediction]" src="assets/images/prediction_margin_65K_2T.png" width="60%">
       - title: Reel-to-Reel Self-Field/In-Field Critical Current Density Mapping Tool for Long REBCO Tapes Under Down to 20K
         details: |
           This innovation provided the entire field, for the first time, with the ability to qualify conductors under application-relevant conditions. By extracting their 2D performance distributions for quality assurance, this work builds the industrial and regulatory confidence required to invest in large-scale HTS magnets.
