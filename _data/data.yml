@@ -361,10 +361,10 @@ honors:
     title: Honors &amp; Awards
     details:
     
-      - name: IEEE Transactions on Applied Superconductivity Distinguished Reviewer Award
+      - name: IEEE Transactions on Applied Superconductivity <p>Distinguished Reviewer Award</p>
         year: 2025
     
-      - name: International Workshop on Coated Conductors for Applications 2023 Best Poster Prize
+      - name: International Workshop on Coated Conductors for Applications 2023 <p>Best Poster Prize</p>
         year: 2023
     
       - name: International Symposium on Superconductivity 2021 Encouragement Award <p>(Best Oral Presentation)</p>
@@ -382,7 +382,7 @@ honors:
       - name: University of Houston Presidential Fellowship
         year: 2017
       
-      - name: China Electric Power Sci & Tech Award 3rd Best Invention Prize
+      - name: China Electric Power Sci & Tech Award <p>3rd Best Invention Prize</p>
         year: 2016
     
 appointments:
