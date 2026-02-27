@@ -36,7 +36,7 @@ sidebar:
         - item: Collaborating with HTS manufacturers (to improve yield) and fusion technology companies (for quality control).
         - item: Leveraging deep connections with the DOE national lab network (PPPL, ORNL, FNAL) for magnet testing and R&D.
         - item: Seeking academic partnerships in materials science, data science, and mechanical engineering.
-        - item: <ul class="list-unstyled contact-list"><li class="print"><i class="fas fa-print fa-2xl"></i><a href="javascript:if(window.print)window.print()"> Print a PDF copy</a></li></ul>
+        - item: <ul class="list-unstyled contact-list"><li class="print"><i class="fas fa-print fa-2xl"></i><a href="assets/CV.pdf" target="_blank"> Print a PDF copy</a></li></ul>
           
 
 career-profile:
@@ -71,41 +71,41 @@ experiences:
       time: 2023 - Present
       company: <a target="_blank" href="https://www.pppl.gov/">Princeton Plasma Physics Laboratory</a> / <a target="_blank" href="https://www.princeton.edu/">Princeton University</a>, Princeton, New Jersey
       details: |
-        - Spearhead key aspects of the PPPL magnet program, developing new magnet user facilities to expand basic research capabilities for internal and external researchers.
-        - Engineer advanced superconducting magnet technologies, modeling, fabricating and validating high-temperature superconducting (HTS) magnet prototypes, analyzing performance data to iterate on designs for improved stability and efficiency.
-        - Develop continuous HTS inspection technologies under practical fusion application conditions (e.g., 20K 7.5T), establishing a quality assurance framework for next-generation fusion energy devices.
+        - Commissioned new magnet user facilities at PPPL, expanding foundational research capabilities in extreme environments for international academic and industrial collaborators.
+        - Innovate advanced high-temperature superconducting (HTS) magnet technologies, applying advanced computational toolkits from plasma physics to optimize component design, significantly reducing projected construction costs and technical risks for next-generation fusion devices.
+        - Direct the full-cycle prototyping of HTS magnets, integrating fundamental physical modeling, fabrication, and performance testing to substantially improve the stability and operational efficiency of magnet systems.
     - role: Graduate Research Assistant
       time: 2017 - 2022
       company: <a target="_blank" href="https://selva.me.uh.edu/">University of Houston, Houston, Texas</a>
       details: |
-        - Provided end-to-end technical solutions for complex research projects, accelerating development by managing the full cycle from concept to implementation and iteration.
-        - Engineered and fabricated custom research apparatus, encompassing mechanical design (CAD/CAM) and machining, electrical systems integration, and power electronics.
-        - Developed and implemented robust data acquisition (DAQ) and automation systems using LabVIEW, Python, and custom PCBs/electronic circuits, resolving critical experimental bottlenecks, enabling hundreds of hours of unattended operation, and increasing data throughput.
-    - role: R&D Manager
+        - Directed the end-to-end development and growth of 50-meter-class high-temperature superconductors, achieving world-record critical current performance and directly advancing the frontier of high-field magnet materials.
+        - Pioneered a physics-informed AI/ML framework for superconductor manufacturing, reducing R&D iteration cycles from days to minutes through real-time data fusion and predictive quality feedback.
+        - Designed and constructed a suite of closed-loop online/offline continuous measurement devices, filling a critical technological gap in the high-precision dynamic characterization of long HTS tapes.
+    - role: Founding Scientist / R&D Manager
       time: 2015 - 2016
       company: <a target="_blank" href="http://eastfs.com/">Eastforce Superconducting Technology Co., Ltd., Beijing, China</a>
       details: |
-        - Led the full-cycle R&D and commercialization pipeline as a founding-stage team member at a high-tech startup.
-        - Built and managed the initial R&D infrastructure from the ground up, establishing all lab-based operations, vendor relationships, and quality control protocols.
-        - Orchestrated the complete product lifecycle for novel superconductor characterization tools, from initial concept, prototyping, and patent strategy to market-ready applications, resulting in the company's first five product launches.
+        - Led the translational research and technology transfer of five novel superconducting characterization instruments, overseeing the progression from fundamental physics concepts to deployment-ready diagnostic tools.
+        - Spearheaded the design and implementation of advanced laboratory infrastructure, establishing rigorous experimental protocols and technical standards that ensured high-fidelity data and reproducible results across the research-to-application pipeline.
+        - Architected long-term R&D and intellectual property strategies, securing the institution’s technical leadership by converting proactive scientific research into a robust portfolio of patents and proprietary methodologies.
     - role: Research Assistant
       time: 2014 - 2014
       company: <a target="_blank" href="https://www.tsinghua.edu.cn/">Tsinghua University, Beijing, China</a>
       details: |
-        - Invented and operationalized a novel passive magnetic shielding technique using superconducting coil groups (Patents Granted: US10015917B2, CN104349653B, CN104349654B).
-        - Engineered and implemented a reel-to-reel, 77K self-field critical current measurement system for high-throughput characterization of long HTS tapes.
+        - Invented and operationalized a novel passive magnetic shielding technique (Granted Patents: US10015917B2, CN104349653B, CN104349654B), resolving magnetic interference bottlenecks for high-precision physics/medical experiments.
+        - Developed a liquid nitrogen temperature self-field critical current continuous measurement system, significantly increasing the high-throughput characterization rate of long HTS tapes; this system was cited by national group standards and is widely adopted internationally.
     - role: Technical Consultant
       time: 2012 - 2013
       company: <a target="_blank" href="http://www.innost.com/">Innova Superconductor Technology Co., Ltd., Beijing, China</a>
       details: |
-        - Engineered and deployed automation and process control systems for the 1st generation HTS (BSCCO/Bi-2223) tape production line.
-        - Implemented real-time monitoring solutions for heat treatment processes and the conductors' geometric uniformity, enhancing quality control and improving production yield.
+        - Designed and deployed automated process control systems for the 1st-generation HTS (BSCCO/Bi-2223) material fabrication.
+        - Implemented real-time monitoring solutions for heat treatment processes and reel-to-reel tape geometry, improving material consistency and strengthening quality control.
     - role: Internship
       time: 2011 - 2012
       company: Intel Labs China, Beijing, China
       details: |
-        - Engineered and optimized embedded software for real-time wireless display (WiDi) protocols, resolving system-level bottlenecks to enhance transmission stability.
-        - Investigated and characterized novel process migration schemes for multi-core ARM platforms, contributing to foundational research on mobile distributed computing.
+        - Raised and implemented a cross-device process migration scheme on a multi-core ARM platform, providing key technical support for mobile distributed computing. The results have been applied to subsequent basic research projects.
+
 projects2:
     title: Research Projects
     info:
@@ -173,6 +173,16 @@ publications:
     intro: |
       Publications including journal papers, conference proceedings and patents.
     papers:
+      - title: "[34] A Virtual Sensor for HTS Manufacturing: Real-Time Critical Current Prediction via In-Line 2D-XRD and Machine Learning"
+        authors: <b>S. Chen</b>, C. Goel, M. Paidpilli, Y. Li, V. Selvamanickam
+        conference: in review (2026)
+        link: #
+
+      - title: "[33] Continuous Electromagnetic Characterization System for Long Length High-Temperature Superconductors at Low Temperature in High Background Magnetic Fields"
+        authors: <b>S. Chen</b>, Y. Zhai, P. Bunkowski
+        conference: PCT/US2025/022536 in review (2025)
+        link: https://patentscope.wipo.int/search/en/WO2025212645
+    
       - title: "[32] Challenges in Continuous In-Field Critical Current Testing of High-Temperature Superconducting Tapes: Thermal and Mechanical Perspectives"
         authors: <b>S. Chen</b>, G. Bradford, P. Bunkowski, R. Kapinos, J. Cruz, Y. Zhai
         conference: IEEE Trans. Appl. Supercond. (2025)
@@ -362,8 +372,14 @@ honors:
       - name: IEEE Transactions on Applied Superconductivity <p>Distinguished Reviewer Award</p>
         year: 2025
     
+      - name: DOE CABLE Conductor Manufacturing Prize <p>Stage 2 Winners (Team)</p>
+        year: 2023
+        
       - name: International Workshop on Coated Conductors for Applications 2023 <p>Best Poster Prize</p>
         year: 2023
+        
+      - name: DOE CABLE Conductor Manufacturing Prize <p>Stage 1 Winners (Team)</p>
+        year: 2021
     
       - name: International Symposium on Superconductivity 2021 Encouragement Award <p>(Best Oral Presentation)</p>
         year: 2021
@@ -379,21 +395,31 @@ honors:
       
       - name: University of Houston Presidential Fellowship
         year: 2017
-      
+        
       - name: China Electric Power Sci & Tech Award <p>3rd Best Invention Prize</p>
+        year: 2017
+        
+      - name: Yunnan Province (China) Technological Invention Award <p>Third Prize (Team)</p>
+        year: 2017
+        
+      - name: China Southern Power Grid Science and Technology Progress Award <p>Second Prize (Team)</p>
         year: 2016
+
     
 appointments:
     title: Services
     details:
-      - name: Reviewing for Superconductivity, SUST, IEEE-TAS, IEEE-TIE, JAEM, EPJ, JMIR Medical Informatics
-      - name: <a href="https://www.appliedsuperconductivity.org/asc2026/program-committee/"> Applied Superconductivity Conference 2026 - Material Program Committee Member</a>
-      - name: <a href="https://www.appliedsuperconductivity.org/asc2024/board-committee/"> Applied Superconductivity Conference 2024, Salt Lake City, UT, Sep 2024 - Board Member； Sponsorship Co-Chair; Material Program Committee Member</a>
+      - name: <b>Grant Reviewing:</b> DOE Small Business Innovation Research (SBIR) Program
+      - name: <b>Journal Reviewing:</b> Superconductivity, SUST, IEEE-TAS, IEEE-TIE, IEEE-TMAG, JAEM, EPJ, JMIR Medical Informatics
+      - name: <b>Conference Reviewing:</b> ASC, MT, EUCAS
+      - name: <a href="https://www.appliedsuperconductivity.org/asc2026/program-committee/"> Applied Superconductivity Conference 2026 - Board Member; Sponsorship Co-Chair; Material Program Committee Member</a>
+      - name: <a href="https://www.appliedsuperconductivity.org/asc2024/board-committee/"> Applied Superconductivity Conference 2024, Salt Lake City, UT, Sep 2024 - Board Member; Sponsorship Co-Chair; Material Program Committee Member</a>
       - name: <a href="https://gss.pppl.gov/2023/">Princeton Plasma Physics Laboratory Graduate Summer School, Princeton, NJ, Aug, 2023 - Instructor</a>
-      - name: <a href="https://cca2023.me.uh.edu/committee/" target="_blank"> Coated Conductor for Applications Workshop, Houston, TX, Apr 2023 - Program Committee Member.
-      - name: <a href="https://sites.google.com/pppl.gov/fusion-magnet-workshop/" target="_blank"> Fusion Magnet Community Workshop, Princeton, NJ, Mar 2023 - Program Committee Member.
+      - name: <a href="https://cca2023.me.uh.edu/committee/" target="_blank"> Coated Conductor for Applications Workshop, Houston, TX, Apr 2023 - Program Committee Member.</a>
+      - name: <a href="https://sites.google.com/pppl.gov/fusion-magnet-workshop/" target="_blank"> Fusion Magnet Community Workshop, Princeton, NJ, Mar 2023 - Program Committee Member.</a>
       - name: <a href="https://www.appliedsuperconductivity.org/asc2022/elevate/" target="_blank"> Applied Superconductivity Conference 2022, Honolulu, HI, Oct 2022 - Board Member; Material Program Committee Member; ELEVATE Program Committee Member</a>
       - name: <a href="https://appliedsuperconductivity.org/asc2020/conference-program/asc-elevate/" target="_blank">Applied Superconductivity Conference 2020, Tampa, FL, Oct 2020 - ELEVATE Program Founding Committee Member</a>
+
       
 footer: >
     
